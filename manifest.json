@@ -1,0 +1,30 @@
+{
+  "name": "HTML Entities Reference",
+  "short_name": "HTML Entities",
+  "description": "Complete searchable reference of HTML entities with copy-to-clipboard and offline support.",
+  "start_url": "./html-entities-reference.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0969da",
+  "categories": ["developer", "reference", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "icon-16.png",  "sizes": "16x16",   "type": "image/png", "purpose": "any" },
+    { "src": "icon-32.png",  "sizes": "32x32",   "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search entities",
+      "short_name": "Search",
+      "description": "Open the reference and focus the search bar",
+      "url": "./html-entities-reference.html?action=search",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

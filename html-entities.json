@@ -1,0 +1,8183 @@
+[
+  {
+    "name": "amp",
+    "entity": "amp",
+    "decimal": "&#38;",
+    "hex": "&#x26;",
+    "glyph": "&",
+    "decimalRaw": 38,
+    "hexRaw": "26",
+    "category": "Basic",
+    "keywords": [
+      "ampersand",
+      "and",
+      "symbol",
+      "amp"
+    ]
+  },
+  {
+    "name": "lt",
+    "entity": "lt",
+    "decimal": "&#60;",
+    "hex": "&#x3C;",
+    "glyph": "<",
+    "decimalRaw": 60,
+    "hexRaw": "3C",
+    "category": "Basic",
+    "keywords": [
+      "less-than",
+      "sign",
+      "less",
+      "than",
+      "compare"
+    ]
+  },
+  {
+    "name": "gt",
+    "entity": "gt",
+    "decimal": "&#62;",
+    "hex": "&#x3E;",
+    "glyph": ">",
+    "decimalRaw": 62,
+    "hexRaw": "3E",
+    "category": "Basic",
+    "keywords": [
+      "greater-than",
+      "sign",
+      "greater",
+      "than",
+      "compare"
+    ]
+  },
+  {
+    "name": "quot",
+    "entity": "quot",
+    "decimal": "&#34;",
+    "hex": "&#x22;",
+    "glyph": "\"",
+    "decimalRaw": 34,
+    "hexRaw": "22",
+    "category": "Basic",
+    "keywords": [
+      "quotation",
+      "mark",
+      "quote",
+      "double"
+    ]
+  },
+  {
+    "name": "apos",
+    "entity": "apos",
+    "decimal": "&#39;",
+    "hex": "&#x27;",
+    "glyph": "'",
+    "decimalRaw": 39,
+    "hexRaw": "27",
+    "category": "Basic",
+    "keywords": [
+      "apostrophe",
+      "single",
+      "quote"
+    ]
+  },
+  {
+    "name": "nbsp",
+    "entity": "nbsp",
+    "decimal": "&#160;",
+    "hex": "&#xA0;",
+    "glyph": " ",
+    "decimalRaw": 160,
+    "hexRaw": "A0",
+    "category": "Basic",
+    "keywords": [
+      "non-breaking",
+      "space",
+      "nbsp",
+      "no-break"
+    ]
+  },
+  {
+    "name": "shy",
+    "entity": "shy",
+    "decimal": "&#173;",
+    "hex": "&#xAD;",
+    "glyph": "­",
+    "decimalRaw": 173,
+    "hexRaw": "AD",
+    "category": "Basic",
+    "keywords": [
+      "soft",
+      "hyphen",
+      "discretionary"
+    ]
+  },
+  {
+    "name": "mdash",
+    "entity": "mdash",
+    "decimal": "&#8212;",
+    "hex": "&#x2014;",
+    "glyph": "—",
+    "decimalRaw": 8212,
+    "hexRaw": "2014",
+    "category": "Typography",
+    "keywords": [
+      "em",
+      "dash",
+      "long",
+      "dash",
+      "punctuation"
+    ]
+  },
+  {
+    "name": "ndash",
+    "entity": "ndash",
+    "decimal": "&#8211;",
+    "hex": "&#x2013;",
+    "glyph": "–",
+    "decimalRaw": 8211,
+    "hexRaw": "2013",
+    "category": "Typography",
+    "keywords": [
+      "en",
+      "dash",
+      "short",
+      "dash",
+      "punctuation"
+    ]
+  },
+  {
+    "name": "hellip",
+    "entity": "hellip",
+    "decimal": "&#8230;",
+    "hex": "&#x2026;",
+    "glyph": "…",
+    "decimalRaw": 8230,
+    "hexRaw": "2026",
+    "category": "Typography",
+    "keywords": [
+      "horizontal",
+      "ellipsis",
+      "dots",
+      "continuation"
+    ]
+  },
+  {
+    "name": "lsquo",
+    "entity": "lsquo",
+    "decimal": "&#8216;",
+    "hex": "&#x2018;",
+    "glyph": "‘",
+    "decimalRaw": 8216,
+    "hexRaw": "2018",
+    "category": "Typography",
+    "keywords": [
+      "left",
+      "single",
+      "quote",
+      "curly",
+      "opening"
+    ]
+  },
+  {
+    "name": "rsquo",
+    "entity": "rsquo",
+    "decimal": "&#8217;",
+    "hex": "&#x2019;",
+    "glyph": "’",
+    "decimalRaw": 8217,
+    "hexRaw": "2019",
+    "category": "Typography",
+    "keywords": [
+      "right",
+      "single",
+      "quote",
+      "curly",
+      "closing"
+    ]
+  },
+  {
+    "name": "ldquo",
+    "entity": "ldquo",
+    "decimal": "&#8220;",
+    "hex": "&#x201C;",
+    "glyph": "“",
+    "decimalRaw": 8220,
+    "hexRaw": "201C",
+    "category": "Typography",
+    "keywords": [
+      "left",
+      "double",
+      "quote",
+      "curly",
+      "opening"
+    ]
+  },
+  {
+    "name": "rdquo",
+    "entity": "rdquo",
+    "decimal": "&#8221;",
+    "hex": "&#x201D;",
+    "glyph": "”",
+    "decimalRaw": 8221,
+    "hexRaw": "201D",
+    "category": "Typography",
+    "keywords": [
+      "right",
+      "double",
+      "quote",
+      "curly",
+      "closing"
+    ]
+  },
+  {
+    "name": "sbquo",
+    "entity": "sbquo",
+    "decimal": "&#8218;",
+    "hex": "&#x201A;",
+    "glyph": "‚",
+    "decimalRaw": 8218,
+    "hexRaw": "201A",
+    "category": "Typography",
+    "keywords": [
+      "single",
+      "low",
+      "quote",
+      "low-9"
+    ]
+  },
+  {
+    "name": "bdquo",
+    "entity": "bdquo",
+    "decimal": "&#8222;",
+    "hex": "&#x201E;",
+    "glyph": "„",
+    "decimalRaw": 8222,
+    "hexRaw": "201E",
+    "category": "Typography",
+    "keywords": [
+      "double",
+      "low",
+      "quote",
+      "low-9"
+    ]
+  },
+  {
+    "name": "laquo",
+    "entity": "laquo",
+    "decimal": "&#171;",
+    "hex": "&#xAB;",
+    "glyph": "«",
+    "decimalRaw": 171,
+    "hexRaw": "AB",
+    "category": "Typography",
+    "keywords": [
+      "left",
+      "angle",
+      "quote",
+      "guillemet",
+      "opening"
+    ]
+  },
+  {
+    "name": "raquo",
+    "entity": "raquo",
+    "decimal": "&#187;",
+    "hex": "&#xBB;",
+    "glyph": "»",
+    "decimalRaw": 187,
+    "hexRaw": "BB",
+    "category": "Typography",
+    "keywords": [
+      "right",
+      "angle",
+      "quote",
+      "guillemet",
+      "closing"
+    ]
+  },
+  {
+    "name": "lsaquo",
+    "entity": "lsaquo",
+    "decimal": "&#8249;",
+    "hex": "&#x2039;",
+    "glyph": "‹",
+    "decimalRaw": 8249,
+    "hexRaw": "2039",
+    "category": "Typography",
+    "keywords": [
+      "single",
+      "left",
+      "angle",
+      "quote"
+    ]
+  },
+  {
+    "name": "rsaquo",
+    "entity": "rsaquo",
+    "decimal": "&#8250;",
+    "hex": "&#x203A;",
+    "glyph": "›",
+    "decimalRaw": 8250,
+    "hexRaw": "203A",
+    "category": "Typography",
+    "keywords": [
+      "single",
+      "right",
+      "angle",
+      "quote"
+    ]
+  },
+  {
+    "name": "bull",
+    "entity": "bull",
+    "decimal": "&#8226;",
+    "hex": "&#x2022;",
+    "glyph": "•",
+    "decimalRaw": 8226,
+    "hexRaw": "2022",
+    "category": "Typography",
+    "keywords": [
+      "bullet",
+      "list",
+      "dot"
+    ]
+  },
+  {
+    "name": "middot",
+    "entity": "middot",
+    "decimal": "&#183;",
+    "hex": "&#xB7;",
+    "glyph": "·",
+    "decimalRaw": 183,
+    "hexRaw": "B7",
+    "category": "Typography",
+    "keywords": [
+      "middle",
+      "dot",
+      "centered",
+      "interpunct"
+    ]
+  },
+  {
+    "name": "dagger",
+    "entity": "dagger",
+    "decimal": "&#8224;",
+    "hex": "&#x2020;",
+    "glyph": "†",
+    "decimalRaw": 8224,
+    "hexRaw": "2020",
+    "category": "Typography",
+    "keywords": [
+      "dagger",
+      "obelisk"
+    ]
+  },
+  {
+    "name": "Dagger",
+    "entity": "Dagger",
+    "decimal": "&#8225;",
+    "hex": "&#x2021;",
+    "glyph": "‡",
+    "decimalRaw": 8225,
+    "hexRaw": "2021",
+    "category": "Typography",
+    "keywords": [
+      "double",
+      "dagger",
+      "diesis"
+    ]
+  },
+  {
+    "name": "permil",
+    "entity": "permil",
+    "decimal": "&#8240;",
+    "hex": "&#x2030;",
+    "glyph": "‰",
+    "decimalRaw": 8240,
+    "hexRaw": "2030",
+    "category": "Typography",
+    "keywords": [
+      "per",
+      "mille",
+      "thousand",
+      "percent"
+    ]
+  },
+  {
+    "name": "prime",
+    "entity": "prime",
+    "decimal": "&#8242;",
+    "hex": "&#x2032;",
+    "glyph": "′",
+    "decimalRaw": 8242,
+    "hexRaw": "2032",
+    "category": "Typography",
+    "keywords": [
+      "prime",
+      "minute"
+    ]
+  },
+  {
+    "name": "Prime",
+    "entity": "Prime",
+    "decimal": "&#8243;",
+    "hex": "&#x2033;",
+    "glyph": "″",
+    "decimalRaw": 8243,
+    "hexRaw": "2033",
+    "category": "Typography",
+    "keywords": [
+      "double",
+      "prime",
+      "second"
+    ]
+  },
+  {
+    "name": "tprime",
+    "entity": "tprime",
+    "decimal": "&#8244;",
+    "hex": "&#x2034;",
+    "glyph": "‴",
+    "decimalRaw": 8244,
+    "hexRaw": "2034",
+    "category": "Typography",
+    "keywords": [
+      "triple",
+      "prime",
+      "third"
+    ]
+  },
+  {
+    "name": "bprime",
+    "entity": "bprime",
+    "decimal": "&#8245;",
+    "hex": "&#x2035;",
+    "glyph": "‵",
+    "decimalRaw": 8245,
+    "hexRaw": "2035",
+    "category": "Typography",
+    "keywords": [
+      "backprime",
+      "reversed"
+    ]
+  },
+  {
+    "name": "ensp",
+    "entity": "ensp",
+    "decimal": "&#8194;",
+    "hex": "&#x2002;",
+    "glyph": " ",
+    "decimalRaw": 8194,
+    "hexRaw": "2002",
+    "category": "Typography",
+    "keywords": [
+      "en",
+      "space",
+      "width"
+    ]
+  },
+  {
+    "name": "emsp",
+    "entity": "emsp",
+    "decimal": "&#8195;",
+    "hex": "&#x2003;",
+    "glyph": " ",
+    "decimalRaw": 8195,
+    "hexRaw": "2003",
+    "category": "Typography",
+    "keywords": [
+      "em",
+      "space",
+      "width"
+    ]
+  },
+  {
+    "name": "thinsp",
+    "entity": "thinsp",
+    "decimal": "&#8201;",
+    "hex": "&#x2009;",
+    "glyph": " ",
+    "decimalRaw": 8201,
+    "hexRaw": "2009",
+    "category": "Typography",
+    "keywords": [
+      "thin",
+      "space",
+      "hair",
+      "narrow"
+    ]
+  },
+  {
+    "name": "zwnj",
+    "entity": "zwnj",
+    "decimal": "&#8204;",
+    "hex": "&#x200C;",
+    "glyph": "‌",
+    "decimalRaw": 8204,
+    "hexRaw": "200C",
+    "category": "Typography",
+    "keywords": [
+      "zero",
+      "width",
+      "non-joiner"
+    ]
+  },
+  {
+    "name": "zwj",
+    "entity": "zwj",
+    "decimal": "&#8205;",
+    "hex": "&#x200D;",
+    "glyph": "‍",
+    "decimalRaw": 8205,
+    "hexRaw": "200D",
+    "category": "Typography",
+    "keywords": [
+      "zero",
+      "width",
+      "joiner"
+    ]
+  },
+  {
+    "name": "lrm",
+    "entity": "lrm",
+    "decimal": "&#8206;",
+    "hex": "&#x200E;",
+    "glyph": "‎",
+    "decimalRaw": 8206,
+    "hexRaw": "200E",
+    "category": "Typography",
+    "keywords": [
+      "left-to-right",
+      "mark"
+    ]
+  },
+  {
+    "name": "rlm",
+    "entity": "rlm",
+    "decimal": "&#8207;",
+    "hex": "&#x200F;",
+    "glyph": "‏",
+    "decimalRaw": 8207,
+    "hexRaw": "200F",
+    "category": "Typography",
+    "keywords": [
+      "right-to-left",
+      "mark"
+    ]
+  },
+  {
+    "name": "horbar",
+    "entity": "horbar",
+    "decimal": "&#8213;",
+    "hex": "&#x2015;",
+    "glyph": "―",
+    "decimalRaw": 8213,
+    "hexRaw": "2015",
+    "category": "Typography",
+    "keywords": [
+      "horizontal",
+      "bar",
+      "quotation",
+      "dash"
+    ]
+  },
+  {
+    "name": "verbar",
+    "entity": "verbar",
+    "decimal": "&#8214;",
+    "hex": "&#x2016;",
+    "glyph": "‖",
+    "decimalRaw": 8214,
+    "hexRaw": "2016",
+    "category": "Typography",
+    "keywords": [
+      "broken",
+      "bar",
+      "vertical",
+      "double"
+    ]
+  },
+  {
+    "name": "brvbar",
+    "entity": "brvbar",
+    "decimal": "&#166;",
+    "hex": "&#xA6;",
+    "glyph": "¦",
+    "decimalRaw": 166,
+    "hexRaw": "A6",
+    "category": "Typography",
+    "keywords": [
+      "broken",
+      "bar",
+      "pipe"
+    ]
+  },
+  {
+    "name": "copy",
+    "entity": "copy",
+    "decimal": "&#169;",
+    "hex": "&#xA9;",
+    "glyph": "©",
+    "decimalRaw": 169,
+    "hexRaw": "A9",
+    "category": "Misc",
+    "keywords": [
+      "copyright",
+      "symbol",
+      "c"
+    ]
+  },
+  {
+    "name": "reg",
+    "entity": "reg",
+    "decimal": "&#174;",
+    "hex": "&#xAE;",
+    "glyph": "®",
+    "decimalRaw": 174,
+    "hexRaw": "AE",
+    "category": "Misc",
+    "keywords": [
+      "registered",
+      "trademark",
+      "r"
+    ]
+  },
+  {
+    "name": "trade",
+    "entity": "trade",
+    "decimal": "&#8482;",
+    "hex": "&#x2122;",
+    "glyph": "™",
+    "decimalRaw": 8482,
+    "hexRaw": "2122",
+    "category": "Misc",
+    "keywords": [
+      "trademark",
+      "tm"
+    ]
+  },
+  {
+    "name": "sect",
+    "entity": "sect",
+    "decimal": "&#167;",
+    "hex": "&#xA7;",
+    "glyph": "§",
+    "decimalRaw": 167,
+    "hexRaw": "A7",
+    "category": "Misc",
+    "keywords": [
+      "section",
+      "sign",
+      "silcrow"
+    ]
+  },
+  {
+    "name": "para",
+    "entity": "para",
+    "decimal": "&#182;",
+    "hex": "&#xB6;",
+    "glyph": "¶",
+    "decimalRaw": 182,
+    "hexRaw": "B6",
+    "category": "Misc",
+    "keywords": [
+      "paragraph",
+      "sign",
+      "pilcrow"
+    ]
+  },
+  {
+    "name": "deg",
+    "entity": "deg",
+    "decimal": "&#176;",
+    "hex": "&#xB0;",
+    "glyph": "°",
+    "decimalRaw": 176,
+    "hexRaw": "B0",
+    "category": "Misc",
+    "keywords": [
+      "degree",
+      "temperature",
+      "angle"
+    ]
+  },
+  {
+    "name": "micro",
+    "entity": "micro",
+    "decimal": "&#181;",
+    "hex": "&#xB5;",
+    "glyph": "µ",
+    "decimalRaw": 181,
+    "hexRaw": "B5",
+    "category": "Misc",
+    "keywords": [
+      "micro",
+      "mu",
+      "prefix",
+      "unit"
+    ]
+  },
+  {
+    "name": "not",
+    "entity": "not",
+    "decimal": "&#172;",
+    "hex": "&#xAC;",
+    "glyph": "¬",
+    "decimalRaw": 172,
+    "hexRaw": "AC",
+    "category": "Misc",
+    "keywords": [
+      "not",
+      "sign",
+      "negation"
+    ]
+  },
+  {
+    "name": "iexcl",
+    "entity": "iexcl",
+    "decimal": "&#161;",
+    "hex": "&#xA1;",
+    "glyph": "¡",
+    "decimalRaw": 161,
+    "hexRaw": "A1",
+    "category": "Misc",
+    "keywords": [
+      "inverted",
+      "exclamation"
+    ]
+  },
+  {
+    "name": "iquest",
+    "entity": "iquest",
+    "decimal": "&#191;",
+    "hex": "&#xBF;",
+    "glyph": "¿",
+    "decimalRaw": 191,
+    "hexRaw": "BF",
+    "category": "Misc",
+    "keywords": [
+      "inverted",
+      "question"
+    ]
+  },
+  {
+    "name": "sup1",
+    "entity": "sup1",
+    "decimal": "&#185;",
+    "hex": "&#xB9;",
+    "glyph": "¹",
+    "decimalRaw": 185,
+    "hexRaw": "B9",
+    "category": "Misc",
+    "keywords": [
+      "superscript",
+      "one"
+    ]
+  },
+  {
+    "name": "sup2",
+    "entity": "sup2",
+    "decimal": "&#178;",
+    "hex": "&#xB2;",
+    "glyph": "²",
+    "decimalRaw": 178,
+    "hexRaw": "B2",
+    "category": "Misc",
+    "keywords": [
+      "superscript",
+      "two",
+      "squared"
+    ]
+  },
+  {
+    "name": "sup3",
+    "entity": "sup3",
+    "decimal": "&#179;",
+    "hex": "&#xB3;",
+    "glyph": "³",
+    "decimalRaw": 179,
+    "hexRaw": "B3",
+    "category": "Misc",
+    "keywords": [
+      "superscript",
+      "three",
+      "cubed"
+    ]
+  },
+  {
+    "name": "plusmn",
+    "entity": "plusmn",
+    "decimal": "&#177;",
+    "hex": "&#xB1;",
+    "glyph": "±",
+    "decimalRaw": 177,
+    "hexRaw": "B1",
+    "category": "Misc",
+    "keywords": [
+      "plus-minus",
+      "plus",
+      "or",
+      "minus"
+    ]
+  },
+  {
+    "name": "macr",
+    "entity": "macr",
+    "decimal": "&#175;",
+    "hex": "&#xAF;",
+    "glyph": "¯",
+    "decimalRaw": 175,
+    "hexRaw": "AF",
+    "category": "Misc",
+    "keywords": [
+      "macron",
+      "overline",
+      "bar"
+    ]
+  },
+  {
+    "name": "acute",
+    "entity": "acute",
+    "decimal": "&#180;",
+    "hex": "&#xB4;",
+    "glyph": "´",
+    "decimalRaw": 180,
+    "hexRaw": "B4",
+    "category": "Misc",
+    "keywords": [
+      "acute",
+      "accent",
+      "stress"
+    ]
+  },
+  {
+    "name": "cedil",
+    "entity": "cedil",
+    "decimal": "&#184;",
+    "hex": "&#xB8;",
+    "glyph": "¸",
+    "decimalRaw": 184,
+    "hexRaw": "B8",
+    "category": "Misc",
+    "keywords": [
+      "cedilla",
+      "hook"
+    ]
+  },
+  {
+    "name": "uml",
+    "entity": "uml",
+    "decimal": "&#168;",
+    "hex": "&#xA8;",
+    "glyph": "¨",
+    "decimalRaw": 168,
+    "hexRaw": "A8",
+    "category": "Misc",
+    "keywords": [
+      "diaeresis",
+      "umlaut"
+    ]
+  },
+  {
+    "name": "ordf",
+    "entity": "ordf",
+    "decimal": "&#170;",
+    "hex": "&#xAA;",
+    "glyph": "ª",
+    "decimalRaw": 170,
+    "hexRaw": "AA",
+    "category": "Misc",
+    "keywords": [
+      "ordinal",
+      "indicator",
+      "feminine"
+    ]
+  },
+  {
+    "name": "ordm",
+    "entity": "ordm",
+    "decimal": "&#186;",
+    "hex": "&#xBA;",
+    "glyph": "º",
+    "decimalRaw": 186,
+    "hexRaw": "BA",
+    "category": "Misc",
+    "keywords": [
+      "ordinal",
+      "indicator",
+      "masculine"
+    ]
+  },
+  {
+    "name": "star",
+    "entity": "star",
+    "decimal": "&#9734;",
+    "hex": "&#x2606;",
+    "glyph": "☆",
+    "decimalRaw": 9734,
+    "hexRaw": "2606",
+    "category": "Misc",
+    "keywords": [
+      "star",
+      "outline",
+      "white"
+    ]
+  },
+  {
+    "name": "phone",
+    "entity": "phone",
+    "decimal": "&#9742;",
+    "hex": "&#x260E;",
+    "glyph": "☎",
+    "decimalRaw": 9742,
+    "hexRaw": "260E",
+    "category": "Misc",
+    "keywords": [
+      "telephone"
+    ]
+  },
+  {
+    "name": "female",
+    "entity": "female",
+    "decimal": "&#9792;",
+    "hex": "&#x2640;",
+    "glyph": "♀",
+    "decimalRaw": 9792,
+    "hexRaw": "2640",
+    "category": "Misc",
+    "keywords": [
+      "female",
+      "venus",
+      "woman"
+    ]
+  },
+  {
+    "name": "male",
+    "entity": "male",
+    "decimal": "&#9794;",
+    "hex": "&#x2642;",
+    "glyph": "♂",
+    "decimalRaw": 9794,
+    "hexRaw": "2642",
+    "category": "Misc",
+    "keywords": [
+      "male",
+      "mars",
+      "man"
+    ]
+  },
+  {
+    "name": "spades",
+    "entity": "spades",
+    "decimal": "&#9824;",
+    "hex": "&#x2660;",
+    "glyph": "♠",
+    "decimalRaw": 9824,
+    "hexRaw": "2660",
+    "category": "Misc",
+    "keywords": [
+      "spade",
+      "suit",
+      "cards",
+      "black"
+    ]
+  },
+  {
+    "name": "clubs",
+    "entity": "clubs",
+    "decimal": "&#9827;",
+    "hex": "&#x2663;",
+    "glyph": "♣",
+    "decimalRaw": 9827,
+    "hexRaw": "2663",
+    "category": "Misc",
+    "keywords": [
+      "club",
+      "suit",
+      "cards",
+      "black"
+    ]
+  },
+  {
+    "name": "hearts",
+    "entity": "hearts",
+    "decimal": "&#9829;",
+    "hex": "&#x2665;",
+    "glyph": "♥",
+    "decimalRaw": 9829,
+    "hexRaw": "2665",
+    "category": "Misc",
+    "keywords": [
+      "heart",
+      "suit",
+      "cards",
+      "love"
+    ]
+  },
+  {
+    "name": "diams",
+    "entity": "diams",
+    "decimal": "&#9830;",
+    "hex": "&#x2666;",
+    "glyph": "♦",
+    "decimalRaw": 9830,
+    "hexRaw": "2666",
+    "category": "Misc",
+    "keywords": [
+      "diamond",
+      "suit",
+      "cards"
+    ]
+  },
+  {
+    "name": "sung",
+    "entity": "sung",
+    "decimal": "&#9834;",
+    "hex": "&#x266A;",
+    "glyph": "♪",
+    "decimalRaw": 9834,
+    "hexRaw": "266A",
+    "category": "Misc",
+    "keywords": [
+      "eighth",
+      "note",
+      "music"
+    ]
+  },
+  {
+    "name": "check",
+    "entity": "check",
+    "decimal": "&#10003;",
+    "hex": "&#x2713;",
+    "glyph": "✓",
+    "decimalRaw": 10003,
+    "hexRaw": "2713",
+    "category": "Misc",
+    "keywords": [
+      "check",
+      "mark",
+      "tick",
+      "yes"
+    ]
+  },
+  {
+    "name": "cross",
+    "entity": "cross",
+    "decimal": "&#10007;",
+    "hex": "&#x2717;",
+    "glyph": "✗",
+    "decimalRaw": 10007,
+    "hexRaw": "2717",
+    "category": "Misc",
+    "keywords": [
+      "ballot",
+      "cross",
+      "x",
+      "no"
+    ]
+  },
+  {
+    "name": "malt",
+    "entity": "malt",
+    "decimal": "&#10070;",
+    "hex": "&#x2756;",
+    "glyph": "❖",
+    "decimalRaw": 10070,
+    "hexRaw": "2756",
+    "category": "Misc",
+    "keywords": [
+      "maltese",
+      "cross"
+    ]
+  },
+  {
+    "name": "hairsp",
+    "entity": "hairsp",
+    "decimal": "&#8202;",
+    "hex": "&#x200A;",
+    "glyph": " ",
+    "decimalRaw": 8202,
+    "hexRaw": "200A",
+    "category": "Misc",
+    "keywords": [
+      "hair",
+      "space",
+      "narrowest"
+    ]
+  },
+  {
+    "name": "num",
+    "entity": "num",
+    "decimal": "&#35;",
+    "hex": "&#x23;",
+    "glyph": "#",
+    "decimalRaw": 35,
+    "hexRaw": "23",
+    "category": "Misc",
+    "keywords": [
+      "number",
+      "sign",
+      "hash",
+      "pound"
+    ]
+  },
+  {
+    "name": "percnt",
+    "entity": "percnt",
+    "decimal": "&#37;",
+    "hex": "&#x25;",
+    "glyph": "%",
+    "decimalRaw": 37,
+    "hexRaw": "25",
+    "category": "Misc",
+    "keywords": [
+      "percent",
+      "percent",
+      "sign"
+    ]
+  },
+  {
+    "name": "period",
+    "entity": "period",
+    "decimal": "&#46;",
+    "hex": "&#x2E;",
+    "glyph": ".",
+    "decimalRaw": 46,
+    "hexRaw": "2E",
+    "category": "Misc",
+    "keywords": [
+      "full",
+      "stop",
+      "dot"
+    ]
+  },
+  {
+    "name": "comma",
+    "entity": "comma",
+    "decimal": "&#44;",
+    "hex": "&#x2C;",
+    "glyph": ",",
+    "decimalRaw": 44,
+    "hexRaw": "2C",
+    "category": "Misc",
+    "keywords": [
+      "comma",
+      "punctuation"
+    ]
+  },
+  {
+    "name": "colon",
+    "entity": "colon",
+    "decimal": "&#58;",
+    "hex": "&#x3A;",
+    "glyph": ":",
+    "decimalRaw": 58,
+    "hexRaw": "3A",
+    "category": "Misc",
+    "keywords": [
+      "colon",
+      "punctuation"
+    ]
+  },
+  {
+    "name": "semi",
+    "entity": "semi",
+    "decimal": "&#59;",
+    "hex": "&#x3B;",
+    "glyph": ";",
+    "decimalRaw": 59,
+    "hexRaw": "3B",
+    "category": "Misc",
+    "keywords": [
+      "semicolon",
+      "punctuation"
+    ]
+  },
+  {
+    "name": "excl",
+    "entity": "excl",
+    "decimal": "&#33;",
+    "hex": "&#x21;",
+    "glyph": "!",
+    "decimalRaw": 33,
+    "hexRaw": "21",
+    "category": "Misc",
+    "keywords": [
+      "exclamation",
+      "mark",
+      "bang"
+    ]
+  },
+  {
+    "name": "quest",
+    "entity": "quest",
+    "decimal": "&#63;",
+    "hex": "&#x3F;",
+    "glyph": "?",
+    "decimalRaw": 63,
+    "hexRaw": "3F",
+    "category": "Misc",
+    "keywords": [
+      "question",
+      "mark"
+    ]
+  },
+  {
+    "name": "lpar",
+    "entity": "lpar",
+    "decimal": "&#40;",
+    "hex": "&#x28;",
+    "glyph": "(",
+    "decimalRaw": 40,
+    "hexRaw": "28",
+    "category": "Misc",
+    "keywords": [
+      "left",
+      "parenthesis",
+      "open"
+    ]
+  },
+  {
+    "name": "rpar",
+    "entity": "rpar",
+    "decimal": "&#41;",
+    "hex": "&#x29;",
+    "glyph": ")",
+    "decimalRaw": 41,
+    "hexRaw": "29",
+    "category": "Misc",
+    "keywords": [
+      "right",
+      "parenthesis",
+      "close"
+    ]
+  },
+  {
+    "name": "lsqb",
+    "entity": "lsqb",
+    "decimal": "&#91;",
+    "hex": "&#x5B;",
+    "glyph": "[",
+    "decimalRaw": 91,
+    "hexRaw": "5B",
+    "category": "Misc",
+    "keywords": [
+      "left",
+      "square",
+      "bracket",
+      "open"
+    ]
+  },
+  {
+    "name": "rsqb",
+    "entity": "rsqb",
+    "decimal": "&#93;",
+    "hex": "&#x5D;",
+    "glyph": "]",
+    "decimalRaw": 93,
+    "hexRaw": "5D",
+    "category": "Misc",
+    "keywords": [
+      "right",
+      "square",
+      "bracket",
+      "close"
+    ]
+  },
+  {
+    "name": "lcub",
+    "entity": "lcub",
+    "decimal": "&#123;",
+    "hex": "&#x7B;",
+    "glyph": "{",
+    "decimalRaw": 123,
+    "hexRaw": "7B",
+    "category": "Misc",
+    "keywords": [
+      "left",
+      "curly",
+      "brace",
+      "open"
+    ]
+  },
+  {
+    "name": "rcub",
+    "entity": "rcub",
+    "decimal": "&#125;",
+    "hex": "&#x7D;",
+    "glyph": "}",
+    "decimalRaw": 125,
+    "hexRaw": "7D",
+    "category": "Misc",
+    "keywords": [
+      "right",
+      "curly",
+      "brace",
+      "close"
+    ]
+  },
+  {
+    "name": "verbar2",
+    "entity": "verbar2",
+    "decimal": "&#124;",
+    "hex": "&#x7C;",
+    "glyph": "|",
+    "decimalRaw": 124,
+    "hexRaw": "7C",
+    "category": "Misc",
+    "keywords": [
+      "vertical",
+      "bar",
+      "pipe"
+    ]
+  },
+  {
+    "name": "sol",
+    "entity": "sol",
+    "decimal": "&#47;",
+    "hex": "&#x2F;",
+    "glyph": "/",
+    "decimalRaw": 47,
+    "hexRaw": "2F",
+    "category": "Misc",
+    "keywords": [
+      "solidus",
+      "slash",
+      "forward"
+    ]
+  },
+  {
+    "name": "bsol",
+    "entity": "bsol",
+    "decimal": "&#92;",
+    "hex": "&#x5C;",
+    "glyph": "\\",
+    "decimalRaw": 92,
+    "hexRaw": "5C",
+    "category": "Misc",
+    "keywords": [
+      "backslash",
+      "reverse",
+      "solidus"
+    ]
+  },
+  {
+    "name": "commat",
+    "entity": "commat",
+    "decimal": "&#64;",
+    "hex": "&#x40;",
+    "glyph": "@",
+    "decimalRaw": 64,
+    "hexRaw": "40",
+    "category": "Misc",
+    "keywords": [
+      "at",
+      "sign",
+      "commercial",
+      "at"
+    ]
+  },
+  {
+    "name": "dollar",
+    "entity": "dollar",
+    "decimal": "&#36;",
+    "hex": "&#x24;",
+    "glyph": "$",
+    "decimalRaw": 36,
+    "hexRaw": "24",
+    "category": "Misc",
+    "keywords": [
+      "dollar",
+      "sign",
+      "currency",
+      "usd"
+    ]
+  },
+  {
+    "name": "ast",
+    "entity": "ast",
+    "decimal": "&#42;",
+    "hex": "&#x2A;",
+    "glyph": "*",
+    "decimalRaw": 42,
+    "hexRaw": "2A",
+    "category": "Misc",
+    "keywords": [
+      "asterisk",
+      "star"
+    ]
+  },
+  {
+    "name": "equals",
+    "entity": "equals",
+    "decimal": "&#61;",
+    "hex": "&#x3D;",
+    "glyph": "=",
+    "decimalRaw": 61,
+    "hexRaw": "3D",
+    "category": "Misc",
+    "keywords": [
+      "equals",
+      "sign",
+      "assignment"
+    ]
+  },
+  {
+    "name": "lowbar",
+    "entity": "lowbar",
+    "decimal": "&#95;",
+    "hex": "&#x5F;",
+    "glyph": "_",
+    "decimalRaw": 95,
+    "hexRaw": "5F",
+    "category": "Misc",
+    "keywords": [
+      "low",
+      "line",
+      "underscore"
+    ]
+  },
+  {
+    "name": "tilde",
+    "entity": "tilde",
+    "decimal": "&#126;",
+    "hex": "&#x7E;",
+    "glyph": "~",
+    "decimalRaw": 126,
+    "hexRaw": "7E",
+    "category": "Misc",
+    "keywords": [
+      "tilde",
+      "swing",
+      "dash"
+    ]
+  },
+  {
+    "name": "circ",
+    "entity": "circ",
+    "decimal": "&#710;",
+    "hex": "&#x2C6;",
+    "glyph": "ˆ",
+    "decimalRaw": 710,
+    "hexRaw": "2C6",
+    "category": "Misc",
+    "keywords": [
+      "circumflex",
+      "accent",
+      "caret"
+    ]
+  },
+  {
+    "name": "caret",
+    "entity": "caret",
+    "decimal": "&#8257;",
+    "hex": "&#x2041;",
+    "glyph": "⁁",
+    "decimalRaw": 8257,
+    "hexRaw": "2041",
+    "category": "Misc",
+    "keywords": [
+      "caret",
+      "insertion"
+    ]
+  },
+  {
+    "name": "cent",
+    "entity": "cent",
+    "decimal": "&#162;",
+    "hex": "&#xA2;",
+    "glyph": "¢",
+    "decimalRaw": 162,
+    "hexRaw": "A2",
+    "category": "Currency",
+    "keywords": [
+      "cent",
+      "money",
+      "c"
+    ]
+  },
+  {
+    "name": "pound",
+    "entity": "pound",
+    "decimal": "&#163;",
+    "hex": "&#xA3;",
+    "glyph": "£",
+    "decimalRaw": 163,
+    "hexRaw": "A3",
+    "category": "Currency",
+    "keywords": [
+      "pound",
+      "sterling",
+      "gbp",
+      "money"
+    ]
+  },
+  {
+    "name": "curren",
+    "entity": "curren",
+    "decimal": "&#164;",
+    "hex": "&#xA4;",
+    "glyph": "¤",
+    "decimalRaw": 164,
+    "hexRaw": "A4",
+    "category": "Currency",
+    "keywords": [
+      "currency",
+      "sign",
+      "generic"
+    ]
+  },
+  {
+    "name": "yen",
+    "entity": "yen",
+    "decimal": "&#165;",
+    "hex": "&#xA5;",
+    "glyph": "¥",
+    "decimalRaw": 165,
+    "hexRaw": "A5",
+    "category": "Currency",
+    "keywords": [
+      "yen",
+      "yuan",
+      "jpy",
+      "cny",
+      "money"
+    ]
+  },
+  {
+    "name": "euro",
+    "entity": "euro",
+    "decimal": "&#8364;",
+    "hex": "&#x20AC;",
+    "glyph": "€",
+    "decimalRaw": 8364,
+    "hexRaw": "20AC",
+    "category": "Currency",
+    "keywords": [
+      "euro",
+      "eur",
+      "money"
+    ]
+  },
+  {
+    "name": "rupiah",
+    "entity": "rupiah",
+    "decimal": "&#8352;",
+    "hex": "&#x20A0;",
+    "glyph": "₠",
+    "decimalRaw": 8352,
+    "hexRaw": "20A0",
+    "category": "Currency",
+    "keywords": [
+      "rupiah",
+      "idr",
+      "money"
+    ]
+  },
+  {
+    "name": "franc",
+    "entity": "franc",
+    "decimal": "&#8355;",
+    "hex": "&#x20A3;",
+    "glyph": "₣",
+    "decimalRaw": 8355,
+    "hexRaw": "20A3",
+    "category": "Currency",
+    "keywords": [
+      "french",
+      "franc",
+      "money"
+    ]
+  },
+  {
+    "name": "lira",
+    "entity": "lira",
+    "decimal": "&#8356;",
+    "hex": "&#x20A4;",
+    "glyph": "₤",
+    "decimalRaw": 8356,
+    "hexRaw": "20A4",
+    "category": "Currency",
+    "keywords": [
+      "lira",
+      "turkish",
+      "money"
+    ]
+  },
+  {
+    "name": "peseta",
+    "entity": "peseta",
+    "decimal": "&#8359;",
+    "hex": "&#x20A7;",
+    "glyph": "₧",
+    "decimalRaw": 8359,
+    "hexRaw": "20A7",
+    "category": "Currency",
+    "keywords": [
+      "peseta",
+      "spanish",
+      "money"
+    ]
+  },
+  {
+    "name": "peso",
+    "entity": "peso",
+    "decimal": "&#8369;",
+    "hex": "&#x20B1;",
+    "glyph": "₱",
+    "decimalRaw": 8369,
+    "hexRaw": "20B1",
+    "category": "Currency",
+    "keywords": [
+      "peso",
+      "money"
+    ]
+  },
+  {
+    "name": "tugrik",
+    "entity": "tugrik",
+    "decimal": "&#8366;",
+    "hex": "&#x20AE;",
+    "glyph": "₮",
+    "decimalRaw": 8366,
+    "hexRaw": "20AE",
+    "category": "Currency",
+    "keywords": [
+      "tugrik",
+      "mongolian",
+      "money"
+    ]
+  },
+  {
+    "name": "won",
+    "entity": "won",
+    "decimal": "&#8361;",
+    "hex": "&#x20A9;",
+    "glyph": "₩",
+    "decimalRaw": 8361,
+    "hexRaw": "20A9",
+    "category": "Currency",
+    "keywords": [
+      "won",
+      "korean",
+      "money"
+    ]
+  },
+  {
+    "name": "dong",
+    "entity": "dong",
+    "decimal": "&#8363;",
+    "hex": "&#x20AB;",
+    "glyph": "₫",
+    "decimalRaw": 8363,
+    "hexRaw": "20AB",
+    "category": "Currency",
+    "keywords": [
+      "dong",
+      "vietnamese",
+      "money"
+    ]
+  },
+  {
+    "name": "shekel",
+    "entity": "shekel",
+    "decimal": "&#8362;",
+    "hex": "&#x20AA;",
+    "glyph": "₪",
+    "decimalRaw": 8362,
+    "hexRaw": "20AA",
+    "category": "Currency",
+    "keywords": [
+      "shekel",
+      "israeli",
+      "money"
+    ]
+  },
+  {
+    "name": "manat",
+    "entity": "manat",
+    "decimal": "&#8380;",
+    "hex": "&#x20BC;",
+    "glyph": "₼",
+    "decimalRaw": 8380,
+    "hexRaw": "20BC",
+    "category": "Currency",
+    "keywords": [
+      "manat",
+      "azerbaijani",
+      "money"
+    ]
+  },
+  {
+    "name": "ruble",
+    "entity": "ruble",
+    "decimal": "&#8381;",
+    "hex": "&#x20BD;",
+    "glyph": "₽",
+    "decimalRaw": 8381,
+    "hexRaw": "20BD",
+    "category": "Currency",
+    "keywords": [
+      "ruble",
+      "russian",
+      "money"
+    ]
+  },
+  {
+    "name": "rupee",
+    "entity": "rupee",
+    "decimal": "&#8360;",
+    "hex": "&#x20A8;",
+    "glyph": "₨",
+    "decimalRaw": 8360,
+    "hexRaw": "20A8",
+    "category": "Currency",
+    "keywords": [
+      "rupee",
+      "indian",
+      "general",
+      "money"
+    ]
+  },
+  {
+    "name": "real",
+    "entity": "real",
+    "decimal": "&#8472;",
+    "hex": "&#x2118;",
+    "glyph": "℘",
+    "decimalRaw": 8472,
+    "hexRaw": "2118",
+    "category": "Currency",
+    "keywords": [
+      "weierstrass",
+      "p"
+    ]
+  },
+  {
+    "name": "Colon",
+    "entity": "Colon",
+    "decimal": "&#8759;",
+    "hex": "&#x2237;",
+    "glyph": "∷",
+    "decimalRaw": 8759,
+    "hexRaw": "2237",
+    "category": "Currency",
+    "keywords": [
+      "ratio",
+      "colon"
+    ]
+  },
+  {
+    "name": "plus",
+    "entity": "plus",
+    "decimal": "&#43;",
+    "hex": "&#x2B;",
+    "glyph": "+",
+    "decimalRaw": 43,
+    "hexRaw": "2B",
+    "category": "Math",
+    "keywords": [
+      "plus",
+      "sign",
+      "addition"
+    ]
+  },
+  {
+    "name": "minus",
+    "entity": "minus",
+    "decimal": "&#8722;",
+    "hex": "&#x2212;",
+    "glyph": "−",
+    "decimalRaw": 8722,
+    "hexRaw": "2212",
+    "category": "Math",
+    "keywords": [
+      "minus",
+      "sign",
+      "subtraction",
+      "dash"
+    ]
+  },
+  {
+    "name": "times",
+    "entity": "times",
+    "decimal": "&#215;",
+    "hex": "&#xD7;",
+    "glyph": "×",
+    "decimalRaw": 215,
+    "hexRaw": "D7",
+    "category": "Math",
+    "keywords": [
+      "multiplication",
+      "sign",
+      "times",
+      "cross"
+    ]
+  },
+  {
+    "name": "divide",
+    "entity": "divide",
+    "decimal": "&#247;",
+    "hex": "&#xF7;",
+    "glyph": "÷",
+    "decimalRaw": 247,
+    "hexRaw": "F7",
+    "category": "Math",
+    "keywords": [
+      "division",
+      "sign",
+      "obelus"
+    ]
+  },
+  {
+    "name": "frasl",
+    "entity": "frasl",
+    "decimal": "&#8260;",
+    "hex": "&#x2044;",
+    "glyph": "⁄",
+    "decimalRaw": 8260,
+    "hexRaw": "2044",
+    "category": "Math",
+    "keywords": [
+      "solidus",
+      "fraction",
+      "slash"
+    ]
+  },
+  {
+    "name": "le",
+    "entity": "le",
+    "decimal": "&#8804;",
+    "hex": "&#x2264;",
+    "glyph": "≤",
+    "decimalRaw": 8804,
+    "hexRaw": "2264",
+    "category": "Math",
+    "keywords": [
+      "less-than",
+      "or",
+      "equal",
+      "to"
+    ]
+  },
+  {
+    "name": "ge",
+    "entity": "ge",
+    "decimal": "&#8805;",
+    "hex": "&#x2265;",
+    "glyph": "≥",
+    "decimalRaw": 8805,
+    "hexRaw": "2265",
+    "category": "Math",
+    "keywords": [
+      "greater-than",
+      "or",
+      "equal",
+      "to"
+    ]
+  },
+  {
+    "name": "ne",
+    "entity": "ne",
+    "decimal": "&#8800;",
+    "hex": "&#x2260;",
+    "glyph": "≠",
+    "decimalRaw": 8800,
+    "hexRaw": "2260",
+    "category": "Math",
+    "keywords": [
+      "not",
+      "equal",
+      "to"
+    ]
+  },
+  {
+    "name": "asymp",
+    "entity": "asymp",
+    "decimal": "&#8776;",
+    "hex": "&#x2248;",
+    "glyph": "≈",
+    "decimalRaw": 8776,
+    "hexRaw": "2248",
+    "category": "Math",
+    "keywords": [
+      "almost",
+      "equal",
+      "approximately"
+    ]
+  },
+  {
+    "name": "equiv",
+    "entity": "equiv",
+    "decimal": "&#8801;",
+    "hex": "&#x2261;",
+    "glyph": "≡",
+    "decimalRaw": 8801,
+    "hexRaw": "2261",
+    "category": "Math",
+    "keywords": [
+      "identical",
+      "to",
+      "equivalence"
+    ]
+  },
+  {
+    "name": "nequiv",
+    "entity": "nequiv",
+    "decimal": "&#8802;",
+    "hex": "&#x2262;",
+    "glyph": "≢",
+    "decimalRaw": 8802,
+    "hexRaw": "2262",
+    "category": "Math",
+    "keywords": [
+      "not",
+      "identical",
+      "to"
+    ]
+  },
+  {
+    "name": "infin",
+    "entity": "infin",
+    "decimal": "&#8734;",
+    "hex": "&#x221E;",
+    "glyph": "∞",
+    "decimalRaw": 8734,
+    "hexRaw": "221E",
+    "category": "Math",
+    "keywords": [
+      "infinity",
+      "endless"
+    ]
+  },
+  {
+    "name": "sum",
+    "entity": "sum",
+    "decimal": "&#8721;",
+    "hex": "&#x2211;",
+    "glyph": "∑",
+    "decimalRaw": 8721,
+    "hexRaw": "2211",
+    "category": "Math",
+    "keywords": [
+      "summation",
+      "n-ary",
+      "sum",
+      "sigma"
+    ]
+  },
+  {
+    "name": "prod",
+    "entity": "prod",
+    "decimal": "&#8719;",
+    "hex": "&#x220F;",
+    "glyph": "∏",
+    "decimalRaw": 8719,
+    "hexRaw": "220F",
+    "category": "Math",
+    "keywords": [
+      "product",
+      "n-ary",
+      "multiply",
+      "pi"
+    ]
+  },
+  {
+    "name": "int",
+    "entity": "int",
+    "decimal": "&#8747;",
+    "hex": "&#x222B;",
+    "glyph": "∫",
+    "decimalRaw": 8747,
+    "hexRaw": "222B",
+    "category": "Math",
+    "keywords": [
+      "integral",
+      "calculus"
+    ]
+  },
+  {
+    "name": "oint",
+    "entity": "oint",
+    "decimal": "&#8750;",
+    "hex": "&#x222E;",
+    "glyph": "∮",
+    "decimalRaw": 8750,
+    "hexRaw": "222E",
+    "category": "Math",
+    "keywords": [
+      "contour",
+      "integral"
+    ]
+  },
+  {
+    "name": "radic",
+    "entity": "radic",
+    "decimal": "&#8730;",
+    "hex": "&#x221A;",
+    "glyph": "√",
+    "decimalRaw": 8730,
+    "hexRaw": "221A",
+    "category": "Math",
+    "keywords": [
+      "square",
+      "root",
+      "radical"
+    ]
+  },
+  {
+    "name": "part",
+    "entity": "part",
+    "decimal": "&#8706;",
+    "hex": "&#x2202;",
+    "glyph": "∂",
+    "decimalRaw": 8706,
+    "hexRaw": "2202",
+    "category": "Math",
+    "keywords": [
+      "partial",
+      "differential",
+      "derivative"
+    ]
+  },
+  {
+    "name": "nabla",
+    "entity": "nabla",
+    "decimal": "&#8711;",
+    "hex": "&#x2207;",
+    "glyph": "∇",
+    "decimalRaw": 8711,
+    "hexRaw": "2207",
+    "category": "Math",
+    "keywords": [
+      "nabla",
+      "gradient",
+      "del"
+    ]
+  },
+  {
+    "name": "forall",
+    "entity": "forall",
+    "decimal": "&#8704;",
+    "hex": "&#x2200;",
+    "glyph": "∀",
+    "decimalRaw": 8704,
+    "hexRaw": "2200",
+    "category": "Math",
+    "keywords": [
+      "for",
+      "all",
+      "universal"
+    ]
+  },
+  {
+    "name": "exist",
+    "entity": "exist",
+    "decimal": "&#8707;",
+    "hex": "&#x2203;",
+    "glyph": "∃",
+    "decimalRaw": 8707,
+    "hexRaw": "2203",
+    "category": "Math",
+    "keywords": [
+      "there",
+      "exists"
+    ]
+  },
+  {
+    "name": "nexist",
+    "entity": "nexist",
+    "decimal": "&#8708;",
+    "hex": "&#x2204;",
+    "glyph": "∄",
+    "decimalRaw": 8708,
+    "hexRaw": "2204",
+    "category": "Math",
+    "keywords": [
+      "there",
+      "does",
+      "not",
+      "exist"
+    ]
+  },
+  {
+    "name": "empty",
+    "entity": "empty",
+    "decimal": "&#8709;",
+    "hex": "&#x2205;",
+    "glyph": "∅",
+    "decimalRaw": 8709,
+    "hexRaw": "2205",
+    "category": "Math",
+    "keywords": [
+      "empty",
+      "set",
+      "null",
+      "void"
+    ]
+  },
+  {
+    "name": "isin",
+    "entity": "isin",
+    "decimal": "&#8712;",
+    "hex": "&#x2208;",
+    "glyph": "∈",
+    "decimalRaw": 8712,
+    "hexRaw": "2208",
+    "category": "Math",
+    "keywords": [
+      "element",
+      "of",
+      "member",
+      "in"
+    ]
+  },
+  {
+    "name": "notin",
+    "entity": "notin",
+    "decimal": "&#8713;",
+    "hex": "&#x2209;",
+    "glyph": "∉",
+    "decimalRaw": 8713,
+    "hexRaw": "2209",
+    "category": "Math",
+    "keywords": [
+      "not",
+      "an",
+      "element",
+      "of"
+    ]
+  },
+  {
+    "name": "sub",
+    "entity": "sub",
+    "decimal": "&#8834;",
+    "hex": "&#x2282;",
+    "glyph": "⊂",
+    "decimalRaw": 8834,
+    "hexRaw": "2282",
+    "category": "Math",
+    "keywords": [
+      "subset",
+      "of",
+      "proper"
+    ]
+  },
+  {
+    "name": "sup",
+    "entity": "sup",
+    "decimal": "&#8835;",
+    "hex": "&#x2283;",
+    "glyph": "⊃",
+    "decimalRaw": 8835,
+    "hexRaw": "2283",
+    "category": "Math",
+    "keywords": [
+      "superset",
+      "of",
+      "proper"
+    ]
+  },
+  {
+    "name": "nsub",
+    "entity": "nsub",
+    "decimal": "&#8836;",
+    "hex": "&#x2284;",
+    "glyph": "⊄",
+    "decimalRaw": 8836,
+    "hexRaw": "2284",
+    "category": "Math",
+    "keywords": [
+      "not",
+      "a",
+      "subset",
+      "of"
+    ]
+  },
+  {
+    "name": "sube",
+    "entity": "sube",
+    "decimal": "&#8838;",
+    "hex": "&#x2286;",
+    "glyph": "⊆",
+    "decimalRaw": 8838,
+    "hexRaw": "2286",
+    "category": "Math",
+    "keywords": [
+      "subset",
+      "of",
+      "or",
+      "equal"
+    ]
+  },
+  {
+    "name": "supe",
+    "entity": "supe",
+    "decimal": "&#8839;",
+    "hex": "&#x2287;",
+    "glyph": "⊇",
+    "decimalRaw": 8839,
+    "hexRaw": "2287",
+    "category": "Math",
+    "keywords": [
+      "superset",
+      "of",
+      "or",
+      "equal"
+    ]
+  },
+  {
+    "name": "cap",
+    "entity": "cap",
+    "decimal": "&#8745;",
+    "hex": "&#x2229;",
+    "glyph": "∩",
+    "decimalRaw": 8745,
+    "hexRaw": "2229",
+    "category": "Math",
+    "keywords": [
+      "intersection",
+      "set"
+    ]
+  },
+  {
+    "name": "cup",
+    "entity": "cup",
+    "decimal": "&#8746;",
+    "hex": "&#x222A;",
+    "glyph": "∪",
+    "decimalRaw": 8746,
+    "hexRaw": "222A",
+    "category": "Math",
+    "keywords": [
+      "union",
+      "set"
+    ]
+  },
+  {
+    "name": "prop",
+    "entity": "prop",
+    "decimal": "&#8733;",
+    "hex": "&#x221D;",
+    "glyph": "∝",
+    "decimalRaw": 8733,
+    "hexRaw": "221D",
+    "category": "Math",
+    "keywords": [
+      "proportional",
+      "to",
+      "varies"
+    ]
+  },
+  {
+    "name": "ang",
+    "entity": "ang",
+    "decimal": "&#8736;",
+    "hex": "&#x2220;",
+    "glyph": "∠",
+    "decimalRaw": 8736,
+    "hexRaw": "2220",
+    "category": "Math",
+    "keywords": [
+      "angle"
+    ]
+  },
+  {
+    "name": "angmsd",
+    "entity": "angmsd",
+    "decimal": "&#8737;",
+    "hex": "&#x2221;",
+    "glyph": "∡",
+    "decimalRaw": 8737,
+    "hexRaw": "2221",
+    "category": "Math",
+    "keywords": [
+      "measured",
+      "angle"
+    ]
+  },
+  {
+    "name": "perp",
+    "entity": "perp",
+    "decimal": "&#8869;",
+    "hex": "&#x22A5;",
+    "glyph": "⊥",
+    "decimalRaw": 8869,
+    "hexRaw": "22A5",
+    "category": "Math",
+    "keywords": [
+      "perpendicular",
+      "up",
+      "tack"
+    ]
+  },
+  {
+    "name": "parallel",
+    "entity": "parallel",
+    "decimal": "&#8741;",
+    "hex": "&#x2225;",
+    "glyph": "∥",
+    "decimalRaw": 8741,
+    "hexRaw": "2225",
+    "category": "Math",
+    "keywords": [
+      "parallel",
+      "to"
+    ]
+  },
+  {
+    "name": "sdot",
+    "entity": "sdot",
+    "decimal": "&#8901;",
+    "hex": "&#x22C5;",
+    "glyph": "⋅",
+    "decimalRaw": 8901,
+    "hexRaw": "22C5",
+    "category": "Math",
+    "keywords": [
+      "dot",
+      "operator"
+    ]
+  },
+  {
+    "name": "lceil",
+    "entity": "lceil",
+    "decimal": "&#8968;",
+    "hex": "&#x2308;",
+    "glyph": "⌈",
+    "decimalRaw": 8968,
+    "hexRaw": "2308",
+    "category": "Math",
+    "keywords": [
+      "left",
+      "ceiling"
+    ]
+  },
+  {
+    "name": "rceil",
+    "entity": "rceil",
+    "decimal": "&#8969;",
+    "hex": "&#x2309;",
+    "glyph": "⌉",
+    "decimalRaw": 8969,
+    "hexRaw": "2309",
+    "category": "Math",
+    "keywords": [
+      "right",
+      "ceiling"
+    ]
+  },
+  {
+    "name": "lfloor",
+    "entity": "lfloor",
+    "decimal": "&#8970;",
+    "hex": "&#x230A;",
+    "glyph": "⌊",
+    "decimalRaw": 8970,
+    "hexRaw": "230A",
+    "category": "Math",
+    "keywords": [
+      "left",
+      "floor"
+    ]
+  },
+  {
+    "name": "rfloor",
+    "entity": "rfloor",
+    "decimal": "&#8971;",
+    "hex": "&#x230B;",
+    "glyph": "⌋",
+    "decimalRaw": 8971,
+    "hexRaw": "230B",
+    "category": "Math",
+    "keywords": [
+      "right",
+      "floor"
+    ]
+  },
+  {
+    "name": "lang",
+    "entity": "lang",
+    "decimal": "&#10216;",
+    "hex": "&#x27E8;",
+    "glyph": "⟨",
+    "decimalRaw": 10216,
+    "hexRaw": "27E8",
+    "category": "Math",
+    "keywords": [
+      "left",
+      "angle",
+      "bracket"
+    ]
+  },
+  {
+    "name": "rang",
+    "entity": "rang",
+    "decimal": "&#10217;",
+    "hex": "&#x27E9;",
+    "glyph": "⟩",
+    "decimalRaw": 10217,
+    "hexRaw": "27E9",
+    "category": "Math",
+    "keywords": [
+      "right",
+      "angle",
+      "bracket"
+    ]
+  },
+  {
+    "name": "loz",
+    "entity": "loz",
+    "decimal": "&#9674;",
+    "hex": "&#x25CA;",
+    "glyph": "◊",
+    "decimalRaw": 9674,
+    "hexRaw": "25CA",
+    "category": "Math",
+    "keywords": [
+      "lozenge",
+      "diamond"
+    ]
+  },
+  {
+    "name": "frac12",
+    "entity": "frac12",
+    "decimal": "&#189;",
+    "hex": "&#xBD;",
+    "glyph": "½",
+    "decimalRaw": 189,
+    "hexRaw": "BD",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "one",
+      "half"
+    ]
+  },
+  {
+    "name": "frac14",
+    "entity": "frac14",
+    "decimal": "&#188;",
+    "hex": "&#xBC;",
+    "glyph": "¼",
+    "decimalRaw": 188,
+    "hexRaw": "BC",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "one",
+      "quarter"
+    ]
+  },
+  {
+    "name": "frac34",
+    "entity": "frac34",
+    "decimal": "&#190;",
+    "hex": "&#xBE;",
+    "glyph": "¾",
+    "decimalRaw": 190,
+    "hexRaw": "BE",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "three",
+      "quarters"
+    ]
+  },
+  {
+    "name": "frac13",
+    "entity": "frac13",
+    "decimal": "&#8531;",
+    "hex": "&#x2153;",
+    "glyph": "⅓",
+    "decimalRaw": 8531,
+    "hexRaw": "2153",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "one",
+      "third"
+    ]
+  },
+  {
+    "name": "frac23",
+    "entity": "frac23",
+    "decimal": "&#8532;",
+    "hex": "&#x2154;",
+    "glyph": "⅔",
+    "decimalRaw": 8532,
+    "hexRaw": "2154",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "two",
+      "thirds"
+    ]
+  },
+  {
+    "name": "frac15",
+    "entity": "frac15",
+    "decimal": "&#8533;",
+    "hex": "&#x2155;",
+    "glyph": "⅕",
+    "decimalRaw": 8533,
+    "hexRaw": "2155",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "one",
+      "fifth"
+    ]
+  },
+  {
+    "name": "frac25",
+    "entity": "frac25",
+    "decimal": "&#8534;",
+    "hex": "&#x2156;",
+    "glyph": "⅖",
+    "decimalRaw": 8534,
+    "hexRaw": "2156",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "two",
+      "fifths"
+    ]
+  },
+  {
+    "name": "frac35",
+    "entity": "frac35",
+    "decimal": "&#8535;",
+    "hex": "&#x2157;",
+    "glyph": "⅗",
+    "decimalRaw": 8535,
+    "hexRaw": "2157",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "three",
+      "fifths"
+    ]
+  },
+  {
+    "name": "frac45",
+    "entity": "frac45",
+    "decimal": "&#8536;",
+    "hex": "&#x2158;",
+    "glyph": "⅘",
+    "decimalRaw": 8536,
+    "hexRaw": "2158",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "four",
+      "fifths"
+    ]
+  },
+  {
+    "name": "frac16",
+    "entity": "frac16",
+    "decimal": "&#8537;",
+    "hex": "&#x2159;",
+    "glyph": "⅙",
+    "decimalRaw": 8537,
+    "hexRaw": "2159",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "one",
+      "sixth"
+    ]
+  },
+  {
+    "name": "frac56",
+    "entity": "frac56",
+    "decimal": "&#8538;",
+    "hex": "&#x215A;",
+    "glyph": "⅚",
+    "decimalRaw": 8538,
+    "hexRaw": "215A",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "five",
+      "sixths"
+    ]
+  },
+  {
+    "name": "frac18",
+    "entity": "frac18",
+    "decimal": "&#8539;",
+    "hex": "&#x215B;",
+    "glyph": "⅛",
+    "decimalRaw": 8539,
+    "hexRaw": "215B",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "one",
+      "eighth"
+    ]
+  },
+  {
+    "name": "frac38",
+    "entity": "frac38",
+    "decimal": "&#8540;",
+    "hex": "&#x215C;",
+    "glyph": "⅜",
+    "decimalRaw": 8540,
+    "hexRaw": "215C",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "three",
+      "eighths"
+    ]
+  },
+  {
+    "name": "frac58",
+    "entity": "frac58",
+    "decimal": "&#8541;",
+    "hex": "&#x215D;",
+    "glyph": "⅝",
+    "decimalRaw": 8541,
+    "hexRaw": "215D",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "five",
+      "eighths"
+    ]
+  },
+  {
+    "name": "frac78",
+    "entity": "frac78",
+    "decimal": "&#8542;",
+    "hex": "&#x215E;",
+    "glyph": "⅞",
+    "decimalRaw": 8542,
+    "hexRaw": "215E",
+    "category": "Math",
+    "keywords": [
+      "fraction",
+      "seven",
+      "eighths"
+    ]
+  },
+  {
+    "name": "propto",
+    "entity": "propto",
+    "decimal": "&#8733;",
+    "hex": "&#x221D;",
+    "glyph": "∝",
+    "decimalRaw": 8733,
+    "hexRaw": "221D",
+    "category": "Math",
+    "keywords": [
+      "proportional",
+      "to"
+    ]
+  },
+  {
+    "name": "vprop",
+    "entity": "vprop",
+    "decimal": "&#8733;",
+    "hex": "&#x221D;",
+    "glyph": "∝",
+    "decimalRaw": 8733,
+    "hexRaw": "221D",
+    "category": "Math",
+    "keywords": [
+      "varies",
+      "as",
+      "proportional"
+    ]
+  },
+  {
+    "name": "sim",
+    "entity": "sim",
+    "decimal": "&#8764;",
+    "hex": "&#x223C;",
+    "glyph": "∼",
+    "decimalRaw": 8764,
+    "hexRaw": "223C",
+    "category": "Math",
+    "keywords": [
+      "tilde",
+      "similar",
+      "to"
+    ]
+  },
+  {
+    "name": "nsim",
+    "entity": "nsim",
+    "decimal": "&#8769;",
+    "hex": "&#x2241;",
+    "glyph": "≁",
+    "decimalRaw": 8769,
+    "hexRaw": "2241",
+    "category": "Math",
+    "keywords": [
+      "not",
+      "similar"
+    ]
+  },
+  {
+    "name": "simeq",
+    "entity": "simeq",
+    "decimal": "&#8771;",
+    "hex": "&#x2243;",
+    "glyph": "≃",
+    "decimalRaw": 8771,
+    "hexRaw": "2243",
+    "category": "Math",
+    "keywords": [
+      "asymptotic",
+      "equal"
+    ]
+  },
+  {
+    "name": "cong",
+    "entity": "cong",
+    "decimal": "&#8773;",
+    "hex": "&#x2245;",
+    "glyph": "≅",
+    "decimalRaw": 8773,
+    "hexRaw": "2245",
+    "category": "Math",
+    "keywords": [
+      "congruent"
+    ]
+  },
+  {
+    "name": "ap",
+    "entity": "ap",
+    "decimal": "&#8776;",
+    "hex": "&#x2248;",
+    "glyph": "≈",
+    "decimalRaw": 8776,
+    "hexRaw": "2248",
+    "category": "Math",
+    "keywords": [
+      "approximately",
+      "equal"
+    ]
+  },
+  {
+    "name": "approx",
+    "entity": "approx",
+    "decimal": "&#8776;",
+    "hex": "&#x2248;",
+    "glyph": "≈",
+    "decimalRaw": 8776,
+    "hexRaw": "2248",
+    "category": "Math",
+    "keywords": [
+      "approximately",
+      "equal"
+    ]
+  },
+  {
+    "name": "and",
+    "entity": "and",
+    "decimal": "&#8743;",
+    "hex": "&#x2227;",
+    "glyph": "∧",
+    "decimalRaw": 8743,
+    "hexRaw": "2227",
+    "category": "Math",
+    "keywords": [
+      "logical",
+      "and",
+      "wedge"
+    ]
+  },
+  {
+    "name": "or",
+    "entity": "or",
+    "decimal": "&#8744;",
+    "hex": "&#x2228;",
+    "glyph": "∨",
+    "decimalRaw": 8744,
+    "hexRaw": "2228",
+    "category": "Math",
+    "keywords": [
+      "logical",
+      "or",
+      "vee"
+    ]
+  },
+  {
+    "name": "not2",
+    "entity": "not2",
+    "decimal": "&#8869;",
+    "hex": "&#x22A5;",
+    "glyph": "⊥",
+    "decimalRaw": 8869,
+    "hexRaw": "22A5",
+    "category": "Math",
+    "keywords": [
+      "negation",
+      "not"
+    ]
+  },
+  {
+    "name": "capcup",
+    "entity": "capcup",
+    "decimal": "&#8898;",
+    "hex": "&#x22C2;",
+    "glyph": "⋂",
+    "decimalRaw": 8898,
+    "hexRaw": "22C2",
+    "category": "Math",
+    "keywords": [
+      "n-ary",
+      "intersection"
+    ]
+  },
+  {
+    "name": "cupcap",
+    "entity": "cupcap",
+    "decimal": "&#8899;",
+    "hex": "&#x22C3;",
+    "glyph": "⋃",
+    "decimalRaw": 8899,
+    "hexRaw": "22C3",
+    "category": "Math",
+    "keywords": [
+      "n-ary",
+      "union"
+    ]
+  },
+  {
+    "name": "oplus",
+    "entity": "oplus",
+    "decimal": "&#8853;",
+    "hex": "&#x2295;",
+    "glyph": "⊕",
+    "decimalRaw": 8853,
+    "hexRaw": "2295",
+    "category": "Math",
+    "keywords": [
+      "circled",
+      "plus",
+      "xor"
+    ]
+  },
+  {
+    "name": "otimes",
+    "entity": "otimes",
+    "decimal": "&#8855;",
+    "hex": "&#x2297;",
+    "glyph": "⊗",
+    "decimalRaw": 8855,
+    "hexRaw": "2297",
+    "category": "Math",
+    "keywords": [
+      "circled",
+      "times",
+      "tensor"
+    ]
+  },
+  {
+    "name": "perp2",
+    "entity": "perp2",
+    "decimal": "&#8869;",
+    "hex": "&#x22A5;",
+    "glyph": "⊥",
+    "decimalRaw": 8869,
+    "hexRaw": "22A5",
+    "category": "Math",
+    "keywords": [
+      "perpendicular"
+    ]
+  },
+  {
+    "name": "directsum",
+    "entity": "directsum",
+    "decimal": "&#8853;",
+    "hex": "&#x2295;",
+    "glyph": "⊕",
+    "decimalRaw": 8853,
+    "hexRaw": "2295",
+    "category": "Math",
+    "keywords": [
+      "direct",
+      "sum"
+    ]
+  },
+  {
+    "name": "minusb",
+    "entity": "minusb",
+    "decimal": "&#8863;",
+    "hex": "&#x229F;",
+    "glyph": "⊟",
+    "decimalRaw": 8863,
+    "hexRaw": "229F",
+    "category": "Math",
+    "keywords": [
+      "box",
+      "minus"
+    ]
+  },
+  {
+    "name": "plusb",
+    "entity": "plusb",
+    "decimal": "&#8862;",
+    "hex": "&#x229E;",
+    "glyph": "⊞",
+    "decimalRaw": 8862,
+    "hexRaw": "229E",
+    "category": "Math",
+    "keywords": [
+      "box",
+      "plus"
+    ]
+  },
+  {
+    "name": "timesb",
+    "entity": "timesb",
+    "decimal": "&#8864;",
+    "hex": "&#x22A0;",
+    "glyph": "⊠",
+    "decimalRaw": 8864,
+    "hexRaw": "22A0",
+    "category": "Math",
+    "keywords": [
+      "box",
+      "times"
+    ]
+  },
+  {
+    "name": "dot",
+    "entity": "dot",
+    "decimal": "&#729;",
+    "hex": "&#x2D9;",
+    "glyph": "˙",
+    "decimalRaw": 729,
+    "hexRaw": "2D9",
+    "category": "Math",
+    "keywords": [
+      "dot",
+      "above"
+    ]
+  },
+  {
+    "name": "DoubleDot",
+    "entity": "DoubleDot",
+    "decimal": "&#776;",
+    "hex": "&#x308;",
+    "glyph": "̈",
+    "decimalRaw": 776,
+    "hexRaw": "308",
+    "category": "Math",
+    "keywords": [
+      "diaeresis"
+    ]
+  },
+  {
+    "name": "frown",
+    "entity": "frown",
+    "decimal": "&#8994;",
+    "hex": "&#x2322;",
+    "glyph": "⌢",
+    "decimalRaw": 8994,
+    "hexRaw": "2322",
+    "category": "Math",
+    "keywords": [
+      "frown"
+    ]
+  },
+  {
+    "name": "smile",
+    "entity": "smile",
+    "decimal": "&#8995;",
+    "hex": "&#x2323;",
+    "glyph": "⌣",
+    "decimalRaw": 8995,
+    "hexRaw": "2323",
+    "category": "Math",
+    "keywords": [
+      "smile"
+    ]
+  },
+  {
+    "name": "there4",
+    "entity": "there4",
+    "decimal": "&#8756;",
+    "hex": "&#x2234;",
+    "glyph": "∴",
+    "decimalRaw": 8756,
+    "hexRaw": "2234",
+    "category": "Math",
+    "keywords": [
+      "therefore"
+    ]
+  },
+  {
+    "name": "becaus",
+    "entity": "becaus",
+    "decimal": "&#8757;",
+    "hex": "&#x2235;",
+    "glyph": "∵",
+    "decimalRaw": 8757,
+    "hexRaw": "2235",
+    "category": "Math",
+    "keywords": [
+      "because",
+      "since"
+    ]
+  },
+  {
+    "name": "ratio",
+    "entity": "ratio",
+    "decimal": "&#8758;",
+    "hex": "&#x2236;",
+    "glyph": "∶",
+    "decimalRaw": 8758,
+    "hexRaw": "2236",
+    "category": "Math",
+    "keywords": [
+      "ratio"
+    ]
+  },
+  {
+    "name": "Colon2",
+    "entity": "Colon2",
+    "decimal": "&#8759;",
+    "hex": "&#x2237;",
+    "glyph": "∷",
+    "decimalRaw": 8759,
+    "hexRaw": "2237",
+    "category": "Math",
+    "keywords": [
+      "ratio",
+      "colon"
+    ]
+  },
+  {
+    "name": "homotht",
+    "entity": "homotht",
+    "decimal": "&#8763;",
+    "hex": "&#x223B;",
+    "glyph": "∻",
+    "decimalRaw": 8763,
+    "hexRaw": "223B",
+    "category": "Math",
+    "keywords": [
+      "homothetic"
+    ]
+  },
+  {
+    "name": "minus",
+    "entity": "minus",
+    "decimal": "&#8722;",
+    "hex": "&#x2212;",
+    "glyph": "−",
+    "decimalRaw": 8722,
+    "hexRaw": "2212",
+    "category": "Math",
+    "keywords": [
+      "minus"
+    ]
+  },
+  {
+    "name": "mnplus",
+    "entity": "mnplus",
+    "decimal": "&#8723;",
+    "hex": "&#x2213;",
+    "glyph": "∓",
+    "decimalRaw": 8723,
+    "hexRaw": "2213",
+    "category": "Math",
+    "keywords": [
+      "minus",
+      "or",
+      "plus"
+    ]
+  },
+  {
+    "name": "plusdo",
+    "entity": "plusdo",
+    "decimal": "&#8724;",
+    "hex": "&#x2214;",
+    "glyph": "∔",
+    "decimalRaw": 8724,
+    "hexRaw": "2214",
+    "category": "Math",
+    "keywords": [
+      "dot",
+      "plus"
+    ]
+  },
+  {
+    "name": "minusdu",
+    "entity": "minusdu",
+    "decimal": "&#8726;",
+    "hex": "&#x2216;",
+    "glyph": "∖",
+    "decimalRaw": 8726,
+    "hexRaw": "2216",
+    "category": "Math",
+    "keywords": [
+      "dot",
+      "minus"
+    ]
+  },
+  {
+    "name": "comp",
+    "entity": "comp",
+    "decimal": "&#8705;",
+    "hex": "&#x2201;",
+    "glyph": "∁",
+    "decimalRaw": 8705,
+    "hexRaw": "2201",
+    "category": "Math",
+    "keywords": [
+      "complement"
+    ]
+  },
+  {
+    "name": "inodot",
+    "entity": "inodot",
+    "decimal": "&#305;",
+    "hex": "&#x131;",
+    "glyph": "ı",
+    "decimalRaw": 305,
+    "hexRaw": "131",
+    "category": "Math",
+    "keywords": [
+      "dotless",
+      "i"
+    ]
+  },
+  {
+    "name": "jnodot",
+    "entity": "jnodot",
+    "decimal": "&#567;",
+    "hex": "&#x237;",
+    "glyph": "ȷ",
+    "decimalRaw": 567,
+    "hexRaw": "237",
+    "category": "Math",
+    "keywords": [
+      "dotless",
+      "j"
+    ]
+  },
+  {
+    "name": "bernou",
+    "entity": "bernou",
+    "decimal": "&#8492;",
+    "hex": "&#x212C;",
+    "glyph": "ℬ",
+    "decimalRaw": 8492,
+    "hexRaw": "212C",
+    "category": "Math",
+    "keywords": [
+      "bernoulli",
+      "script",
+      "b"
+    ]
+  },
+  {
+    "name": "image",
+    "entity": "image",
+    "decimal": "&#8465;",
+    "hex": "&#x2111;",
+    "glyph": "ℑ",
+    "decimalRaw": 8465,
+    "hexRaw": "2111",
+    "category": "Math",
+    "keywords": [
+      "imaginary",
+      "part",
+      "fraktur",
+      "i"
+    ]
+  },
+  {
+    "name": "real2",
+    "entity": "real2",
+    "decimal": "&#8476;",
+    "hex": "&#x211C;",
+    "glyph": "ℜ",
+    "decimalRaw": 8476,
+    "hexRaw": "211C",
+    "category": "Math",
+    "keywords": [
+      "real",
+      "part",
+      "fraktur",
+      "r"
+    ]
+  },
+  {
+    "name": "weierp",
+    "entity": "weierp",
+    "decimal": "&#8472;",
+    "hex": "&#x2118;",
+    "glyph": "℘",
+    "decimalRaw": 8472,
+    "hexRaw": "2118",
+    "category": "Math",
+    "keywords": [
+      "weierstrass",
+      "p",
+      "power"
+    ]
+  },
+  {
+    "name": "alefsym",
+    "entity": "alefsym",
+    "decimal": "&#8501;",
+    "hex": "&#x2135;",
+    "glyph": "ℵ",
+    "decimalRaw": 8501,
+    "hexRaw": "2135",
+    "category": "Math",
+    "keywords": [
+      "aleph",
+      "symbol",
+      "first",
+      "hebrew"
+    ]
+  },
+  {
+    "name": "aleph",
+    "entity": "aleph",
+    "decimal": "&#8501;",
+    "hex": "&#x2135;",
+    "glyph": "ℵ",
+    "decimalRaw": 8501,
+    "hexRaw": "2135",
+    "category": "Math",
+    "keywords": [
+      "aleph",
+      "cardinal"
+    ]
+  },
+  {
+    "name": "beth",
+    "entity": "beth",
+    "decimal": "&#8502;",
+    "hex": "&#x2136;",
+    "glyph": "ℶ",
+    "decimalRaw": 8502,
+    "hexRaw": "2136",
+    "category": "Math",
+    "keywords": [
+      "beth",
+      "cardinal"
+    ]
+  },
+  {
+    "name": "gimel",
+    "entity": "gimel",
+    "decimal": "&#8503;",
+    "hex": "&#x2137;",
+    "glyph": "ℷ",
+    "decimalRaw": 8503,
+    "hexRaw": "2137",
+    "category": "Math",
+    "keywords": [
+      "gimel",
+      "cardinal"
+    ]
+  },
+  {
+    "name": "daleth",
+    "entity": "daleth",
+    "decimal": "&#8504;",
+    "hex": "&#x2138;",
+    "glyph": "ℸ",
+    "decimalRaw": 8504,
+    "hexRaw": "2138",
+    "category": "Math",
+    "keywords": [
+      "daleth",
+      "cardinal"
+    ]
+  },
+  {
+    "name": "andand",
+    "entity": "andand",
+    "decimal": "&#8663;",
+    "hex": "&#x21D7;",
+    "glyph": "⇗",
+    "decimalRaw": 8663,
+    "hexRaw": "21D7",
+    "category": "Math",
+    "keywords": [
+      "n-ary",
+      "logical",
+      "and"
+    ]
+  },
+  {
+    "name": "oror",
+    "entity": "oror",
+    "decimal": "&#8897;",
+    "hex": "&#x22C1;",
+    "glyph": "⋁",
+    "decimalRaw": 8897,
+    "hexRaw": "22C1",
+    "category": "Math",
+    "keywords": [
+      "n-ary",
+      "logical",
+      "or"
+    ]
+  },
+  {
+    "name": "larr",
+    "entity": "larr",
+    "decimal": "&#8592;",
+    "hex": "&#x2190;",
+    "glyph": "←",
+    "decimalRaw": 8592,
+    "hexRaw": "2190",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "arrow"
+    ]
+  },
+  {
+    "name": "rarr",
+    "entity": "rarr",
+    "decimal": "&#8594;",
+    "hex": "&#x2192;",
+    "glyph": "→",
+    "decimalRaw": 8594,
+    "hexRaw": "2192",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "arrow"
+    ]
+  },
+  {
+    "name": "uarr",
+    "entity": "uarr",
+    "decimal": "&#8593;",
+    "hex": "&#x2191;",
+    "glyph": "↑",
+    "decimalRaw": 8593,
+    "hexRaw": "2191",
+    "category": "Arrows",
+    "keywords": [
+      "upwards",
+      "arrow"
+    ]
+  },
+  {
+    "name": "darr",
+    "entity": "darr",
+    "decimal": "&#8595;",
+    "hex": "&#x2193;",
+    "glyph": "↓",
+    "decimalRaw": 8595,
+    "hexRaw": "2193",
+    "category": "Arrows",
+    "keywords": [
+      "downwards",
+      "arrow"
+    ]
+  },
+  {
+    "name": "harr",
+    "entity": "harr",
+    "decimal": "&#8596;",
+    "hex": "&#x2194;",
+    "glyph": "↔",
+    "decimalRaw": 8596,
+    "hexRaw": "2194",
+    "category": "Arrows",
+    "keywords": [
+      "left",
+      "right",
+      "arrow"
+    ]
+  },
+  {
+    "name": "varr",
+    "entity": "varr",
+    "decimal": "&#8597;",
+    "hex": "&#x2195;",
+    "glyph": "↕",
+    "decimalRaw": 8597,
+    "hexRaw": "2195",
+    "category": "Arrows",
+    "keywords": [
+      "up",
+      "down",
+      "arrow"
+    ]
+  },
+  {
+    "name": "nwarr",
+    "entity": "nwarr",
+    "decimal": "&#8598;",
+    "hex": "&#x2196;",
+    "glyph": "↖",
+    "decimalRaw": 8598,
+    "hexRaw": "2196",
+    "category": "Arrows",
+    "keywords": [
+      "north",
+      "west",
+      "arrow"
+    ]
+  },
+  {
+    "name": "nearr",
+    "entity": "nearr",
+    "decimal": "&#8599;",
+    "hex": "&#x2197;",
+    "glyph": "↗",
+    "decimalRaw": 8599,
+    "hexRaw": "2197",
+    "category": "Arrows",
+    "keywords": [
+      "north",
+      "east",
+      "arrow"
+    ]
+  },
+  {
+    "name": "searr",
+    "entity": "searr",
+    "decimal": "&#8600;",
+    "hex": "&#x2198;",
+    "glyph": "↘",
+    "decimalRaw": 8600,
+    "hexRaw": "2198",
+    "category": "Arrows",
+    "keywords": [
+      "south",
+      "east",
+      "arrow"
+    ]
+  },
+  {
+    "name": "swarr",
+    "entity": "swarr",
+    "decimal": "&#8601;",
+    "hex": "&#x2199;",
+    "glyph": "↙",
+    "decimalRaw": 8601,
+    "hexRaw": "2199",
+    "category": "Arrows",
+    "keywords": [
+      "south",
+      "west",
+      "arrow"
+    ]
+  },
+  {
+    "name": "larr2",
+    "entity": "larr2",
+    "decimal": "&#8646;",
+    "hex": "&#x21C6;",
+    "glyph": "⇆",
+    "decimalRaw": 8646,
+    "hexRaw": "21C6",
+    "category": "Arrows",
+    "keywords": [
+      "left",
+      "right",
+      "arrow",
+      "double",
+      "stroke"
+    ]
+  },
+  {
+    "name": "rarr2",
+    "entity": "rarr2",
+    "decimal": "&#8646;",
+    "hex": "&#x21C6;",
+    "glyph": "⇆",
+    "decimalRaw": 8646,
+    "hexRaw": "21C6",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "leftwards"
+    ]
+  },
+  {
+    "name": "Larr",
+    "entity": "Larr",
+    "decimal": "&#8656;",
+    "hex": "&#x21D0;",
+    "glyph": "⇐",
+    "decimalRaw": 8656,
+    "hexRaw": "21D0",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Rarr",
+    "entity": "Rarr",
+    "decimal": "&#8658;",
+    "hex": "&#x21D2;",
+    "glyph": "⇒",
+    "decimalRaw": 8658,
+    "hexRaw": "21D2",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Uarr",
+    "entity": "Uarr",
+    "decimal": "&#8657;",
+    "hex": "&#x21D1;",
+    "glyph": "⇑",
+    "decimalRaw": 8657,
+    "hexRaw": "21D1",
+    "category": "Arrows",
+    "keywords": [
+      "upwards",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "Darr",
+    "entity": "Darr",
+    "decimal": "&#8659;",
+    "hex": "&#x21D3;",
+    "glyph": "⇓",
+    "decimalRaw": 8659,
+    "hexRaw": "21D3",
+    "category": "Arrows",
+    "keywords": [
+      "downwards",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "hArr",
+    "entity": "hArr",
+    "decimal": "&#8660;",
+    "hex": "&#x21D4;",
+    "glyph": "⇔",
+    "decimalRaw": 8660,
+    "hexRaw": "21D4",
+    "category": "Arrows",
+    "keywords": [
+      "left",
+      "right",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "vArr",
+    "entity": "vArr",
+    "decimal": "&#8661;",
+    "hex": "&#x21D5;",
+    "glyph": "⇕",
+    "decimalRaw": 8661,
+    "hexRaw": "21D5",
+    "category": "Arrows",
+    "keywords": [
+      "up",
+      "down",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "nwArr",
+    "entity": "nwArr",
+    "decimal": "&#8662;",
+    "hex": "&#x21D6;",
+    "glyph": "⇖",
+    "decimalRaw": 8662,
+    "hexRaw": "21D6",
+    "category": "Arrows",
+    "keywords": [
+      "north",
+      "west",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "neArr",
+    "entity": "neArr",
+    "decimal": "&#8663;",
+    "hex": "&#x21D7;",
+    "glyph": "⇗",
+    "decimalRaw": 8663,
+    "hexRaw": "21D7",
+    "category": "Arrows",
+    "keywords": [
+      "north",
+      "east",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "seArr",
+    "entity": "seArr",
+    "decimal": "&#8664;",
+    "hex": "&#x21D8;",
+    "glyph": "⇘",
+    "decimalRaw": 8664,
+    "hexRaw": "21D8",
+    "category": "Arrows",
+    "keywords": [
+      "south",
+      "east",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "swArr",
+    "entity": "swArr",
+    "decimal": "&#8665;",
+    "hex": "&#x21D9;",
+    "glyph": "⇙",
+    "decimalRaw": 8665,
+    "hexRaw": "21D9",
+    "category": "Arrows",
+    "keywords": [
+      "south",
+      "west",
+      "double",
+      "arrow"
+    ]
+  },
+  {
+    "name": "larr3",
+    "entity": "larr3",
+    "decimal": "&#8656;",
+    "hex": "&#x21D0;",
+    "glyph": "⇐",
+    "decimalRaw": 8656,
+    "hexRaw": "21D0",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "long",
+      "arrow"
+    ]
+  },
+  {
+    "name": "rarr3",
+    "entity": "rarr3",
+    "decimal": "&#8658;",
+    "hex": "&#x21D2;",
+    "glyph": "⇒",
+    "decimalRaw": 8658,
+    "hexRaw": "21D2",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "long",
+      "arrow"
+    ]
+  },
+  {
+    "name": "lrarr",
+    "entity": "lrarr",
+    "decimal": "&#8646;",
+    "hex": "&#x21C6;",
+    "glyph": "⇆",
+    "decimalRaw": 8646,
+    "hexRaw": "21C6",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "rightwards",
+      "double"
+    ]
+  },
+  {
+    "name": "rlarr",
+    "entity": "rlarr",
+    "decimal": "&#8644;",
+    "hex": "&#x21C4;",
+    "glyph": "⇄",
+    "decimalRaw": 8644,
+    "hexRaw": "21C4",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "leftwards",
+      "double"
+    ]
+  },
+  {
+    "name": "lhar",
+    "entity": "lhar",
+    "decimal": "&#8636;",
+    "hex": "&#x21BC;",
+    "glyph": "↼",
+    "decimalRaw": 8636,
+    "hexRaw": "21BC",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "harpoon"
+    ]
+  },
+  {
+    "name": "rhar",
+    "entity": "rhar",
+    "decimal": "&#8640;",
+    "hex": "&#x21C0;",
+    "glyph": "⇀",
+    "decimalRaw": 8640,
+    "hexRaw": "21C0",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "harpoon"
+    ]
+  },
+  {
+    "name": "lhar2",
+    "entity": "lhar2",
+    "decimal": "&#8651;",
+    "hex": "&#x21CB;",
+    "glyph": "⇋",
+    "decimalRaw": 8651,
+    "hexRaw": "21CB",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "harpoon",
+      "down",
+      "up"
+    ]
+  },
+  {
+    "name": "rhar2",
+    "entity": "rhar2",
+    "decimal": "&#8652;",
+    "hex": "&#x21CC;",
+    "glyph": "⇌",
+    "decimalRaw": 8652,
+    "hexRaw": "21CC",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "harpoon",
+      "down",
+      "up"
+    ]
+  },
+  {
+    "name": "uphar",
+    "entity": "uphar",
+    "decimal": "&#8639;",
+    "hex": "&#x21BF;",
+    "glyph": "↿",
+    "decimalRaw": 8639,
+    "hexRaw": "21BF",
+    "category": "Arrows",
+    "keywords": [
+      "upwards",
+      "harpoon",
+      "right"
+    ]
+  },
+  {
+    "name": "downhar",
+    "entity": "downhar",
+    "decimal": "&#8637;",
+    "hex": "&#x21BD;",
+    "glyph": "↽",
+    "decimalRaw": 8637,
+    "hexRaw": "21BD",
+    "category": "Arrows",
+    "keywords": [
+      "downwards",
+      "harpoon",
+      "right"
+    ]
+  },
+  {
+    "name": "crarr",
+    "entity": "crarr",
+    "decimal": "&#8629;",
+    "hex": "&#x21B5;",
+    "glyph": "↵",
+    "decimalRaw": 8629,
+    "hexRaw": "21B5",
+    "category": "Arrows",
+    "keywords": [
+      "downwards",
+      "arrow",
+      "corner",
+      "return"
+    ]
+  },
+  {
+    "name": "nlarr",
+    "entity": "nlarr",
+    "decimal": "&#8602;",
+    "hex": "&#x219A;",
+    "glyph": "↚",
+    "decimalRaw": 8602,
+    "hexRaw": "219A",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "arrow",
+      "stroke"
+    ]
+  },
+  {
+    "name": "nrarr",
+    "entity": "nrarr",
+    "decimal": "&#8603;",
+    "hex": "&#x219B;",
+    "glyph": "↛",
+    "decimalRaw": 8603,
+    "hexRaw": "219B",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "arrow",
+      "stroke"
+    ]
+  },
+  {
+    "name": "nharr",
+    "entity": "nharr",
+    "decimal": "&#8622;",
+    "hex": "&#x21AE;",
+    "glyph": "↮",
+    "decimalRaw": 8622,
+    "hexRaw": "21AE",
+    "category": "Arrows",
+    "keywords": [
+      "left",
+      "right",
+      "arrow",
+      "stroke"
+    ]
+  },
+  {
+    "name": "larrb",
+    "entity": "larrb",
+    "decimal": "&#8676;",
+    "hex": "&#x21E4;",
+    "glyph": "⇤",
+    "decimalRaw": 8676,
+    "hexRaw": "21E4",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "arrow",
+      "to",
+      "bar"
+    ]
+  },
+  {
+    "name": "rarrb",
+    "entity": "rarrb",
+    "decimal": "&#8677;",
+    "hex": "&#x21E5;",
+    "glyph": "⇥",
+    "decimalRaw": 8677,
+    "hexRaw": "21E5",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "arrow",
+      "to",
+      "bar"
+    ]
+  },
+  {
+    "name": "larrb2",
+    "entity": "larrb2",
+    "decimal": "&#10508;",
+    "hex": "&#x290C;",
+    "glyph": "⤌",
+    "decimalRaw": 10508,
+    "hexRaw": "290C",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "triple",
+      "arrow"
+    ]
+  },
+  {
+    "name": "rarrb2",
+    "entity": "rarrb2",
+    "decimal": "&#10509;",
+    "hex": "&#x290D;",
+    "glyph": "⤍",
+    "decimalRaw": 10509,
+    "hexRaw": "290D",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "triple",
+      "arrow"
+    ]
+  },
+  {
+    "name": "map",
+    "entity": "map",
+    "decimal": "&#8614;",
+    "hex": "&#x21A6;",
+    "glyph": "↦",
+    "decimalRaw": 8614,
+    "hexRaw": "21A6",
+    "category": "Arrows",
+    "keywords": [
+      "rightwards",
+      "arrow",
+      "from",
+      "bar",
+      "maps",
+      "to"
+    ]
+  },
+  {
+    "name": "mapstoleft",
+    "entity": "mapstoleft",
+    "decimal": "&#8612;",
+    "hex": "&#x21A4;",
+    "glyph": "↤",
+    "decimalRaw": 8612,
+    "hexRaw": "21A4",
+    "category": "Arrows",
+    "keywords": [
+      "leftwards",
+      "arrow",
+      "from",
+      "bar"
+    ]
+  },
+  {
+    "name": "mapstoup",
+    "entity": "mapstoup",
+    "decimal": "&#8613;",
+    "hex": "&#x21A5;",
+    "glyph": "↥",
+    "decimalRaw": 8613,
+    "hexRaw": "21A5",
+    "category": "Arrows",
+    "keywords": [
+      "upwards",
+      "arrow",
+      "from",
+      "bar"
+    ]
+  },
+  {
+    "name": "mapstodown",
+    "entity": "mapstodown",
+    "decimal": "&#8615;",
+    "hex": "&#x21A7;",
+    "glyph": "↧",
+    "decimalRaw": 8615,
+    "hexRaw": "21A7",
+    "category": "Arrows",
+    "keywords": [
+      "downwards",
+      "arrow",
+      "from",
+      "bar"
+    ]
+  },
+  {
+    "name": "alpha",
+    "entity": "alpha",
+    "decimal": "&#945;",
+    "hex": "&#x3B1;",
+    "glyph": "α",
+    "decimalRaw": 945,
+    "hexRaw": "3B1",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "alpha"
+    ]
+  },
+  {
+    "name": "beta",
+    "entity": "beta",
+    "decimal": "&#946;",
+    "hex": "&#x3B2;",
+    "glyph": "β",
+    "decimalRaw": 946,
+    "hexRaw": "3B2",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "beta"
+    ]
+  },
+  {
+    "name": "gamma",
+    "entity": "gamma",
+    "decimal": "&#947;",
+    "hex": "&#x3B3;",
+    "glyph": "γ",
+    "decimalRaw": 947,
+    "hexRaw": "3B3",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "gamma"
+    ]
+  },
+  {
+    "name": "delta",
+    "entity": "delta",
+    "decimal": "&#948;",
+    "hex": "&#x3B4;",
+    "glyph": "δ",
+    "decimalRaw": 948,
+    "hexRaw": "3B4",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "delta"
+    ]
+  },
+  {
+    "name": "epsilon",
+    "entity": "epsilon",
+    "decimal": "&#949;",
+    "hex": "&#x3B5;",
+    "glyph": "ε",
+    "decimalRaw": 949,
+    "hexRaw": "3B5",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "epsilon"
+    ]
+  },
+  {
+    "name": "zeta",
+    "entity": "zeta",
+    "decimal": "&#950;",
+    "hex": "&#x3B6;",
+    "glyph": "ζ",
+    "decimalRaw": 950,
+    "hexRaw": "3B6",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "zeta"
+    ]
+  },
+  {
+    "name": "eta",
+    "entity": "eta",
+    "decimal": "&#951;",
+    "hex": "&#x3B7;",
+    "glyph": "η",
+    "decimalRaw": 951,
+    "hexRaw": "3B7",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "eta"
+    ]
+  },
+  {
+    "name": "theta",
+    "entity": "theta",
+    "decimal": "&#952;",
+    "hex": "&#x3B8;",
+    "glyph": "θ",
+    "decimalRaw": 952,
+    "hexRaw": "3B8",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "theta"
+    ]
+  },
+  {
+    "name": "iota",
+    "entity": "iota",
+    "decimal": "&#953;",
+    "hex": "&#x3B9;",
+    "glyph": "ι",
+    "decimalRaw": 953,
+    "hexRaw": "3B9",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "iota"
+    ]
+  },
+  {
+    "name": "kappa",
+    "entity": "kappa",
+    "decimal": "&#954;",
+    "hex": "&#x3BA;",
+    "glyph": "κ",
+    "decimalRaw": 954,
+    "hexRaw": "3BA",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "kappa"
+    ]
+  },
+  {
+    "name": "lambda",
+    "entity": "lambda",
+    "decimal": "&#955;",
+    "hex": "&#x3BB;",
+    "glyph": "λ",
+    "decimalRaw": 955,
+    "hexRaw": "3BB",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "lambda"
+    ]
+  },
+  {
+    "name": "mu",
+    "entity": "mu",
+    "decimal": "&#956;",
+    "hex": "&#x3BC;",
+    "glyph": "μ",
+    "decimalRaw": 956,
+    "hexRaw": "3BC",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "mu",
+      "micro"
+    ]
+  },
+  {
+    "name": "nu",
+    "entity": "nu",
+    "decimal": "&#957;",
+    "hex": "&#x3BD;",
+    "glyph": "ν",
+    "decimalRaw": 957,
+    "hexRaw": "3BD",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "nu"
+    ]
+  },
+  {
+    "name": "xi",
+    "entity": "xi",
+    "decimal": "&#958;",
+    "hex": "&#x3BE;",
+    "glyph": "ξ",
+    "decimalRaw": 958,
+    "hexRaw": "3BE",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "xi"
+    ]
+  },
+  {
+    "name": "omicron",
+    "entity": "omicron",
+    "decimal": "&#959;",
+    "hex": "&#x3BF;",
+    "glyph": "ο",
+    "decimalRaw": 959,
+    "hexRaw": "3BF",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "omicron"
+    ]
+  },
+  {
+    "name": "pi",
+    "entity": "pi",
+    "decimal": "&#960;",
+    "hex": "&#x3C0;",
+    "glyph": "π",
+    "decimalRaw": 960,
+    "hexRaw": "3C0",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "pi"
+    ]
+  },
+  {
+    "name": "rho",
+    "entity": "rho",
+    "decimal": "&#961;",
+    "hex": "&#x3C1;",
+    "glyph": "ρ",
+    "decimalRaw": 961,
+    "hexRaw": "3C1",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "rho"
+    ]
+  },
+  {
+    "name": "sigmaf",
+    "entity": "sigmaf",
+    "decimal": "&#962;",
+    "hex": "&#x3C2;",
+    "glyph": "ς",
+    "decimalRaw": 962,
+    "hexRaw": "3C2",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "final",
+      "sigma"
+    ]
+  },
+  {
+    "name": "sigma",
+    "entity": "sigma",
+    "decimal": "&#963;",
+    "hex": "&#x3C3;",
+    "glyph": "σ",
+    "decimalRaw": 963,
+    "hexRaw": "3C3",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "sigma"
+    ]
+  },
+  {
+    "name": "tau",
+    "entity": "tau",
+    "decimal": "&#964;",
+    "hex": "&#x3C4;",
+    "glyph": "τ",
+    "decimalRaw": 964,
+    "hexRaw": "3C4",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "tau"
+    ]
+  },
+  {
+    "name": "upsilon",
+    "entity": "upsilon",
+    "decimal": "&#965;",
+    "hex": "&#x3C5;",
+    "glyph": "υ",
+    "decimalRaw": 965,
+    "hexRaw": "3C5",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "upsilon"
+    ]
+  },
+  {
+    "name": "phi",
+    "entity": "phi",
+    "decimal": "&#966;",
+    "hex": "&#x3C6;",
+    "glyph": "φ",
+    "decimalRaw": 966,
+    "hexRaw": "3C6",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "phi"
+    ]
+  },
+  {
+    "name": "chi",
+    "entity": "chi",
+    "decimal": "&#967;",
+    "hex": "&#x3C7;",
+    "glyph": "χ",
+    "decimalRaw": 967,
+    "hexRaw": "3C7",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "chi"
+    ]
+  },
+  {
+    "name": "psi",
+    "entity": "psi",
+    "decimal": "&#968;",
+    "hex": "&#x3C8;",
+    "glyph": "ψ",
+    "decimalRaw": 968,
+    "hexRaw": "3C8",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "psi"
+    ]
+  },
+  {
+    "name": "omega",
+    "entity": "omega",
+    "decimal": "&#969;",
+    "hex": "&#x3C9;",
+    "glyph": "ω",
+    "decimalRaw": 969,
+    "hexRaw": "3C9",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "small",
+      "omega"
+    ]
+  },
+  {
+    "name": "Alpha",
+    "entity": "Alpha",
+    "decimal": "&#913;",
+    "hex": "&#x391;",
+    "glyph": "Α",
+    "decimalRaw": 913,
+    "hexRaw": "391",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "alpha"
+    ]
+  },
+  {
+    "name": "Beta",
+    "entity": "Beta",
+    "decimal": "&#914;",
+    "hex": "&#x392;",
+    "glyph": "Β",
+    "decimalRaw": 914,
+    "hexRaw": "392",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "beta"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "entity": "Gamma",
+    "decimal": "&#915;",
+    "hex": "&#x393;",
+    "glyph": "Γ",
+    "decimalRaw": 915,
+    "hexRaw": "393",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "gamma"
+    ]
+  },
+  {
+    "name": "Delta",
+    "entity": "Delta",
+    "decimal": "&#916;",
+    "hex": "&#x394;",
+    "glyph": "Δ",
+    "decimalRaw": 916,
+    "hexRaw": "394",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "delta"
+    ]
+  },
+  {
+    "name": "Epsilon",
+    "entity": "Epsilon",
+    "decimal": "&#917;",
+    "hex": "&#x395;",
+    "glyph": "Ε",
+    "decimalRaw": 917,
+    "hexRaw": "395",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "epsilon"
+    ]
+  },
+  {
+    "name": "Zeta",
+    "entity": "Zeta",
+    "decimal": "&#918;",
+    "hex": "&#x396;",
+    "glyph": "Ζ",
+    "decimalRaw": 918,
+    "hexRaw": "396",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "zeta"
+    ]
+  },
+  {
+    "name": "Eta",
+    "entity": "Eta",
+    "decimal": "&#919;",
+    "hex": "&#x397;",
+    "glyph": "Η",
+    "decimalRaw": 919,
+    "hexRaw": "397",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "eta"
+    ]
+  },
+  {
+    "name": "Theta",
+    "entity": "Theta",
+    "decimal": "&#920;",
+    "hex": "&#x398;",
+    "glyph": "Θ",
+    "decimalRaw": 920,
+    "hexRaw": "398",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "theta"
+    ]
+  },
+  {
+    "name": "Iota",
+    "entity": "Iota",
+    "decimal": "&#921;",
+    "hex": "&#x399;",
+    "glyph": "Ι",
+    "decimalRaw": 921,
+    "hexRaw": "399",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "iota"
+    ]
+  },
+  {
+    "name": "Kappa",
+    "entity": "Kappa",
+    "decimal": "&#922;",
+    "hex": "&#x39A;",
+    "glyph": "Κ",
+    "decimalRaw": 922,
+    "hexRaw": "39A",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "kappa"
+    ]
+  },
+  {
+    "name": "Lambda",
+    "entity": "Lambda",
+    "decimal": "&#923;",
+    "hex": "&#x39B;",
+    "glyph": "Λ",
+    "decimalRaw": 923,
+    "hexRaw": "39B",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "lambda"
+    ]
+  },
+  {
+    "name": "Mu",
+    "entity": "Mu",
+    "decimal": "&#924;",
+    "hex": "&#x39C;",
+    "glyph": "Μ",
+    "decimalRaw": 924,
+    "hexRaw": "39C",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "mu"
+    ]
+  },
+  {
+    "name": "Nu",
+    "entity": "Nu",
+    "decimal": "&#925;",
+    "hex": "&#x39D;",
+    "glyph": "Ν",
+    "decimalRaw": 925,
+    "hexRaw": "39D",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "nu"
+    ]
+  },
+  {
+    "name": "Xi",
+    "entity": "Xi",
+    "decimal": "&#926;",
+    "hex": "&#x39E;",
+    "glyph": "Ξ",
+    "decimalRaw": 926,
+    "hexRaw": "39E",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "xi"
+    ]
+  },
+  {
+    "name": "Omicron",
+    "entity": "Omicron",
+    "decimal": "&#927;",
+    "hex": "&#x39F;",
+    "glyph": "Ο",
+    "decimalRaw": 927,
+    "hexRaw": "39F",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "omicron"
+    ]
+  },
+  {
+    "name": "Pi",
+    "entity": "Pi",
+    "decimal": "&#928;",
+    "hex": "&#x3A0;",
+    "glyph": "Π",
+    "decimalRaw": 928,
+    "hexRaw": "3A0",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "pi"
+    ]
+  },
+  {
+    "name": "Rho",
+    "entity": "Rho",
+    "decimal": "&#929;",
+    "hex": "&#x3A1;",
+    "glyph": "Ρ",
+    "decimalRaw": 929,
+    "hexRaw": "3A1",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "rho"
+    ]
+  },
+  {
+    "name": "Sigma",
+    "entity": "Sigma",
+    "decimal": "&#931;",
+    "hex": "&#x3A3;",
+    "glyph": "Σ",
+    "decimalRaw": 931,
+    "hexRaw": "3A3",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "sigma"
+    ]
+  },
+  {
+    "name": "Tau",
+    "entity": "Tau",
+    "decimal": "&#932;",
+    "hex": "&#x3A4;",
+    "glyph": "Τ",
+    "decimalRaw": 932,
+    "hexRaw": "3A4",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "tau"
+    ]
+  },
+  {
+    "name": "Upsilon",
+    "entity": "Upsilon",
+    "decimal": "&#933;",
+    "hex": "&#x3A5;",
+    "glyph": "Υ",
+    "decimalRaw": 933,
+    "hexRaw": "3A5",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "upsilon"
+    ]
+  },
+  {
+    "name": "Phi",
+    "entity": "Phi",
+    "decimal": "&#934;",
+    "hex": "&#x3A6;",
+    "glyph": "Φ",
+    "decimalRaw": 934,
+    "hexRaw": "3A6",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "phi"
+    ]
+  },
+  {
+    "name": "Chi",
+    "entity": "Chi",
+    "decimal": "&#935;",
+    "hex": "&#x3A7;",
+    "glyph": "Χ",
+    "decimalRaw": 935,
+    "hexRaw": "3A7",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "chi"
+    ]
+  },
+  {
+    "name": "Psi",
+    "entity": "Psi",
+    "decimal": "&#936;",
+    "hex": "&#x3A8;",
+    "glyph": "Ψ",
+    "decimalRaw": 936,
+    "hexRaw": "3A8",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "psi"
+    ]
+  },
+  {
+    "name": "Omega",
+    "entity": "Omega",
+    "decimal": "&#937;",
+    "hex": "&#x3A9;",
+    "glyph": "Ω",
+    "decimalRaw": 937,
+    "hexRaw": "3A9",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "capital",
+      "omega"
+    ]
+  },
+  {
+    "name": "thetasym",
+    "entity": "thetasym",
+    "decimal": "&#977;",
+    "hex": "&#x3D1;",
+    "glyph": "ϑ",
+    "decimalRaw": 977,
+    "hexRaw": "3D1",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "theta",
+      "symbol"
+    ]
+  },
+  {
+    "name": "upsih",
+    "entity": "upsih",
+    "decimal": "&#978;",
+    "hex": "&#x3D2;",
+    "glyph": "ϒ",
+    "decimalRaw": 978,
+    "hexRaw": "3D2",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "upsilon",
+      "hook"
+    ]
+  },
+  {
+    "name": "piv",
+    "entity": "piv",
+    "decimal": "&#982;",
+    "hex": "&#x3D6;",
+    "glyph": "ϖ",
+    "decimalRaw": 982,
+    "hexRaw": "3D6",
+    "category": "Greek",
+    "keywords": [
+      "greek",
+      "pi",
+      "symbol"
+    ]
+  },
+  {
+    "name": "Agrave",
+    "entity": "Agrave",
+    "decimal": "&#192;",
+    "hex": "&#xC0;",
+    "glyph": "À",
+    "decimalRaw": 192,
+    "hexRaw": "C0",
+    "category": "Latin Extended",
+    "keywords": [
+      "A",
+      "grave",
+      "capital"
+    ]
+  },
+  {
+    "name": "Aacute",
+    "entity": "Aacute",
+    "decimal": "&#193;",
+    "hex": "&#xC1;",
+    "glyph": "Á",
+    "decimalRaw": 193,
+    "hexRaw": "C1",
+    "category": "Latin Extended",
+    "keywords": [
+      "A",
+      "acute",
+      "capital"
+    ]
+  },
+  {
+    "name": "Acirc",
+    "entity": "Acirc",
+    "decimal": "&#194;",
+    "hex": "&#xC2;",
+    "glyph": "Â",
+    "decimalRaw": 194,
+    "hexRaw": "C2",
+    "category": "Latin Extended",
+    "keywords": [
+      "A",
+      "circumflex",
+      "capital"
+    ]
+  },
+  {
+    "name": "Atilde",
+    "entity": "Atilde",
+    "decimal": "&#195;",
+    "hex": "&#xC3;",
+    "glyph": "Ã",
+    "decimalRaw": 195,
+    "hexRaw": "C3",
+    "category": "Latin Extended",
+    "keywords": [
+      "A",
+      "tilde",
+      "capital"
+    ]
+  },
+  {
+    "name": "Auml",
+    "entity": "Auml",
+    "decimal": "&#196;",
+    "hex": "&#xC4;",
+    "glyph": "Ä",
+    "decimalRaw": 196,
+    "hexRaw": "C4",
+    "category": "Latin Extended",
+    "keywords": [
+      "A",
+      "diaeresis",
+      "capital"
+    ]
+  },
+  {
+    "name": "Aring",
+    "entity": "Aring",
+    "decimal": "&#197;",
+    "hex": "&#xC5;",
+    "glyph": "Å",
+    "decimalRaw": 197,
+    "hexRaw": "C5",
+    "category": "Latin Extended",
+    "keywords": [
+      "A",
+      "ring",
+      "capital"
+    ]
+  },
+  {
+    "name": "AElig",
+    "entity": "AElig",
+    "decimal": "&#198;",
+    "hex": "&#xC6;",
+    "glyph": "Æ",
+    "decimalRaw": 198,
+    "hexRaw": "C6",
+    "category": "Latin Extended",
+    "keywords": [
+      "AE",
+      "ligature",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ccedil",
+    "entity": "Ccedil",
+    "decimal": "&#199;",
+    "hex": "&#xC7;",
+    "glyph": "Ç",
+    "decimalRaw": 199,
+    "hexRaw": "C7",
+    "category": "Latin Extended",
+    "keywords": [
+      "C",
+      "cedilla",
+      "capital"
+    ]
+  },
+  {
+    "name": "Egrave",
+    "entity": "Egrave",
+    "decimal": "&#200;",
+    "hex": "&#xC8;",
+    "glyph": "È",
+    "decimalRaw": 200,
+    "hexRaw": "C8",
+    "category": "Latin Extended",
+    "keywords": [
+      "E",
+      "grave",
+      "capital"
+    ]
+  },
+  {
+    "name": "Eacute",
+    "entity": "Eacute",
+    "decimal": "&#201;",
+    "hex": "&#xC9;",
+    "glyph": "É",
+    "decimalRaw": 201,
+    "hexRaw": "C9",
+    "category": "Latin Extended",
+    "keywords": [
+      "E",
+      "acute",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ecirc",
+    "entity": "Ecirc",
+    "decimal": "&#202;",
+    "hex": "&#xCA;",
+    "glyph": "Ê",
+    "decimalRaw": 202,
+    "hexRaw": "CA",
+    "category": "Latin Extended",
+    "keywords": [
+      "E",
+      "circumflex",
+      "capital"
+    ]
+  },
+  {
+    "name": "Euml",
+    "entity": "Euml",
+    "decimal": "&#203;",
+    "hex": "&#xCB;",
+    "glyph": "Ë",
+    "decimalRaw": 203,
+    "hexRaw": "CB",
+    "category": "Latin Extended",
+    "keywords": [
+      "E",
+      "diaeresis",
+      "capital"
+    ]
+  },
+  {
+    "name": "Igrave",
+    "entity": "Igrave",
+    "decimal": "&#204;",
+    "hex": "&#xCC;",
+    "glyph": "Ì",
+    "decimalRaw": 204,
+    "hexRaw": "CC",
+    "category": "Latin Extended",
+    "keywords": [
+      "I",
+      "grave",
+      "capital"
+    ]
+  },
+  {
+    "name": "Iacute",
+    "entity": "Iacute",
+    "decimal": "&#205;",
+    "hex": "&#xCD;",
+    "glyph": "Í",
+    "decimalRaw": 205,
+    "hexRaw": "CD",
+    "category": "Latin Extended",
+    "keywords": [
+      "I",
+      "acute",
+      "capital"
+    ]
+  },
+  {
+    "name": "Icirc",
+    "entity": "Icirc",
+    "decimal": "&#206;",
+    "hex": "&#xCE;",
+    "glyph": "Î",
+    "decimalRaw": 206,
+    "hexRaw": "CE",
+    "category": "Latin Extended",
+    "keywords": [
+      "I",
+      "circumflex",
+      "capital"
+    ]
+  },
+  {
+    "name": "Iuml",
+    "entity": "Iuml",
+    "decimal": "&#207;",
+    "hex": "&#xCF;",
+    "glyph": "Ï",
+    "decimalRaw": 207,
+    "hexRaw": "CF",
+    "category": "Latin Extended",
+    "keywords": [
+      "I",
+      "diaeresis",
+      "capital"
+    ]
+  },
+  {
+    "name": "ETH",
+    "entity": "ETH",
+    "decimal": "&#208;",
+    "hex": "&#xD0;",
+    "glyph": "Ð",
+    "decimalRaw": 208,
+    "hexRaw": "D0",
+    "category": "Latin Extended",
+    "keywords": [
+      "Eth",
+      "capital",
+      "icelandic"
+    ]
+  },
+  {
+    "name": "Ntilde",
+    "entity": "Ntilde",
+    "decimal": "&#209;",
+    "hex": "&#xD1;",
+    "glyph": "Ñ",
+    "decimalRaw": 209,
+    "hexRaw": "D1",
+    "category": "Latin Extended",
+    "keywords": [
+      "N",
+      "tilde",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ograve",
+    "entity": "Ograve",
+    "decimal": "&#210;",
+    "hex": "&#xD2;",
+    "glyph": "Ò",
+    "decimalRaw": 210,
+    "hexRaw": "D2",
+    "category": "Latin Extended",
+    "keywords": [
+      "O",
+      "grave",
+      "capital"
+    ]
+  },
+  {
+    "name": "Oacute",
+    "entity": "Oacute",
+    "decimal": "&#211;",
+    "hex": "&#xD3;",
+    "glyph": "Ó",
+    "decimalRaw": 211,
+    "hexRaw": "D3",
+    "category": "Latin Extended",
+    "keywords": [
+      "O",
+      "acute",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ocirc",
+    "entity": "Ocirc",
+    "decimal": "&#212;",
+    "hex": "&#xD4;",
+    "glyph": "Ô",
+    "decimalRaw": 212,
+    "hexRaw": "D4",
+    "category": "Latin Extended",
+    "keywords": [
+      "O",
+      "circumflex",
+      "capital"
+    ]
+  },
+  {
+    "name": "Otilde",
+    "entity": "Otilde",
+    "decimal": "&#213;",
+    "hex": "&#xD5;",
+    "glyph": "Õ",
+    "decimalRaw": 213,
+    "hexRaw": "D5",
+    "category": "Latin Extended",
+    "keywords": [
+      "O",
+      "tilde",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ouml",
+    "entity": "Ouml",
+    "decimal": "&#214;",
+    "hex": "&#xD6;",
+    "glyph": "Ö",
+    "decimalRaw": 214,
+    "hexRaw": "D6",
+    "category": "Latin Extended",
+    "keywords": [
+      "O",
+      "diaeresis",
+      "capital"
+    ]
+  },
+  {
+    "name": "Oslash",
+    "entity": "Oslash",
+    "decimal": "&#216;",
+    "hex": "&#xD8;",
+    "glyph": "Ø",
+    "decimalRaw": 216,
+    "hexRaw": "D8",
+    "category": "Latin Extended",
+    "keywords": [
+      "O",
+      "slash",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ugrave",
+    "entity": "Ugrave",
+    "decimal": "&#217;",
+    "hex": "&#xD9;",
+    "glyph": "Ù",
+    "decimalRaw": 217,
+    "hexRaw": "D9",
+    "category": "Latin Extended",
+    "keywords": [
+      "U",
+      "grave",
+      "capital"
+    ]
+  },
+  {
+    "name": "Uacute",
+    "entity": "Uacute",
+    "decimal": "&#218;",
+    "hex": "&#xDA;",
+    "glyph": "Ú",
+    "decimalRaw": 218,
+    "hexRaw": "DA",
+    "category": "Latin Extended",
+    "keywords": [
+      "U",
+      "acute",
+      "capital"
+    ]
+  },
+  {
+    "name": "Ucirc",
+    "entity": "Ucirc",
+    "decimal": "&#219;",
+    "hex": "&#xDB;",
+    "glyph": "Û",
+    "decimalRaw": 219,
+    "hexRaw": "DB",
+    "category": "Latin Extended",
+    "keywords": [
+      "U",
+      "circumflex",
+      "capital"
+    ]
+  },
+  {
+    "name": "Uuml",
+    "entity": "Uuml",
+    "decimal": "&#220;",
+    "hex": "&#xDC;",
+    "glyph": "Ü",
+    "decimalRaw": 220,
+    "hexRaw": "DC",
+    "category": "Latin Extended",
+    "keywords": [
+      "U",
+      "diaeresis",
+      "capital"
+    ]
+  },
+  {
+    "name": "Yacute",
+    "entity": "Yacute",
+    "decimal": "&#221;",
+    "hex": "&#xDD;",
+    "glyph": "Ý",
+    "decimalRaw": 221,
+    "hexRaw": "DD",
+    "category": "Latin Extended",
+    "keywords": [
+      "Y",
+      "acute",
+      "capital"
+    ]
+  },
+  {
+    "name": "THORN",
+    "entity": "THORN",
+    "decimal": "&#222;",
+    "hex": "&#xDE;",
+    "glyph": "Þ",
+    "decimalRaw": 222,
+    "hexRaw": "DE",
+    "category": "Latin Extended",
+    "keywords": [
+      "Thorn",
+      "capital",
+      "icelandic"
+    ]
+  },
+  {
+    "name": "szlig",
+    "entity": "szlig",
+    "decimal": "&#223;",
+    "hex": "&#xDF;",
+    "glyph": "ß",
+    "decimalRaw": 223,
+    "hexRaw": "DF",
+    "category": "Latin Extended",
+    "keywords": [
+      "sharp",
+      "s",
+      "eszett",
+      "german"
+    ]
+  },
+  {
+    "name": "agrave",
+    "entity": "agrave",
+    "decimal": "&#224;",
+    "hex": "&#xE0;",
+    "glyph": "à",
+    "decimalRaw": 224,
+    "hexRaw": "E0",
+    "category": "Latin Extended",
+    "keywords": [
+      "a",
+      "grave",
+      "small"
+    ]
+  },
+  {
+    "name": "aacute",
+    "entity": "aacute",
+    "decimal": "&#225;",
+    "hex": "&#xE1;",
+    "glyph": "á",
+    "decimalRaw": 225,
+    "hexRaw": "E1",
+    "category": "Latin Extended",
+    "keywords": [
+      "a",
+      "acute",
+      "small"
+    ]
+  },
+  {
+    "name": "acirc",
+    "entity": "acirc",
+    "decimal": "&#226;",
+    "hex": "&#xE2;",
+    "glyph": "â",
+    "decimalRaw": 226,
+    "hexRaw": "E2",
+    "category": "Latin Extended",
+    "keywords": [
+      "a",
+      "circumflex",
+      "small"
+    ]
+  },
+  {
+    "name": "atilde",
+    "entity": "atilde",
+    "decimal": "&#227;",
+    "hex": "&#xE3;",
+    "glyph": "ã",
+    "decimalRaw": 227,
+    "hexRaw": "E3",
+    "category": "Latin Extended",
+    "keywords": [
+      "a",
+      "tilde",
+      "small"
+    ]
+  },
+  {
+    "name": "auml",
+    "entity": "auml",
+    "decimal": "&#228;",
+    "hex": "&#xE4;",
+    "glyph": "ä",
+    "decimalRaw": 228,
+    "hexRaw": "E4",
+    "category": "Latin Extended",
+    "keywords": [
+      "a",
+      "diaeresis",
+      "small"
+    ]
+  },
+  {
+    "name": "aring",
+    "entity": "aring",
+    "decimal": "&#229;",
+    "hex": "&#xE5;",
+    "glyph": "å",
+    "decimalRaw": 229,
+    "hexRaw": "E5",
+    "category": "Latin Extended",
+    "keywords": [
+      "a",
+      "ring",
+      "small"
+    ]
+  },
+  {
+    "name": "aelig",
+    "entity": "aelig",
+    "decimal": "&#230;",
+    "hex": "&#xE6;",
+    "glyph": "æ",
+    "decimalRaw": 230,
+    "hexRaw": "E6",
+    "category": "Latin Extended",
+    "keywords": [
+      "ae",
+      "ligature",
+      "small"
+    ]
+  },
+  {
+    "name": "ccedil",
+    "entity": "ccedil",
+    "decimal": "&#231;",
+    "hex": "&#xE7;",
+    "glyph": "ç",
+    "decimalRaw": 231,
+    "hexRaw": "E7",
+    "category": "Latin Extended",
+    "keywords": [
+      "c",
+      "cedilla",
+      "small"
+    ]
+  },
+  {
+    "name": "egrave",
+    "entity": "egrave",
+    "decimal": "&#232;",
+    "hex": "&#xE8;",
+    "glyph": "è",
+    "decimalRaw": 232,
+    "hexRaw": "E8",
+    "category": "Latin Extended",
+    "keywords": [
+      "e",
+      "grave",
+      "small"
+    ]
+  },
+  {
+    "name": "eacute",
+    "entity": "eacute",
+    "decimal": "&#233;",
+    "hex": "&#xE9;",
+    "glyph": "é",
+    "decimalRaw": 233,
+    "hexRaw": "E9",
+    "category": "Latin Extended",
+    "keywords": [
+      "e",
+      "acute",
+      "small"
+    ]
+  },
+  {
+    "name": "ecirc",
+    "entity": "ecirc",
+    "decimal": "&#234;",
+    "hex": "&#xEA;",
+    "glyph": "ê",
+    "decimalRaw": 234,
+    "hexRaw": "EA",
+    "category": "Latin Extended",
+    "keywords": [
+      "e",
+      "circumflex",
+      "small"
+    ]
+  },
+  {
+    "name": "euml",
+    "entity": "euml",
+    "decimal": "&#235;",
+    "hex": "&#xEB;",
+    "glyph": "ë",
+    "decimalRaw": 235,
+    "hexRaw": "EB",
+    "category": "Latin Extended",
+    "keywords": [
+      "e",
+      "diaeresis",
+      "small"
+    ]
+  },
+  {
+    "name": "igrave",
+    "entity": "igrave",
+    "decimal": "&#236;",
+    "hex": "&#xEC;",
+    "glyph": "ì",
+    "decimalRaw": 236,
+    "hexRaw": "EC",
+    "category": "Latin Extended",
+    "keywords": [
+      "i",
+      "grave",
+      "small"
+    ]
+  },
+  {
+    "name": "iacute",
+    "entity": "iacute",
+    "decimal": "&#237;",
+    "hex": "&#xED;",
+    "glyph": "í",
+    "decimalRaw": 237,
+    "hexRaw": "ED",
+    "category": "Latin Extended",
+    "keywords": [
+      "i",
+      "acute",
+      "small"
+    ]
+  },
+  {
+    "name": "icirc",
+    "entity": "icirc",
+    "decimal": "&#238;",
+    "hex": "&#xEE;",
+    "glyph": "î",
+    "decimalRaw": 238,
+    "hexRaw": "EE",
+    "category": "Latin Extended",
+    "keywords": [
+      "i",
+      "circumflex",
+      "small"
+    ]
+  },
+  {
+    "name": "iuml",
+    "entity": "iuml",
+    "decimal": "&#239;",
+    "hex": "&#xEF;",
+    "glyph": "ï",
+    "decimalRaw": 239,
+    "hexRaw": "EF",
+    "category": "Latin Extended",
+    "keywords": [
+      "i",
+      "diaeresis",
+      "small"
+    ]
+  },
+  {
+    "name": "eth",
+    "entity": "eth",
+    "decimal": "&#240;",
+    "hex": "&#xF0;",
+    "glyph": "ð",
+    "decimalRaw": 240,
+    "hexRaw": "F0",
+    "category": "Latin Extended",
+    "keywords": [
+      "eth",
+      "small",
+      "icelandic"
+    ]
+  },
+  {
+    "name": "ntilde",
+    "entity": "ntilde",
+    "decimal": "&#241;",
+    "hex": "&#xF1;",
+    "glyph": "ñ",
+    "decimalRaw": 241,
+    "hexRaw": "F1",
+    "category": "Latin Extended",
+    "keywords": [
+      "n",
+      "tilde",
+      "small"
+    ]
+  },
+  {
+    "name": "ograve",
+    "entity": "ograve",
+    "decimal": "&#242;",
+    "hex": "&#xF2;",
+    "glyph": "ò",
+    "decimalRaw": 242,
+    "hexRaw": "F2",
+    "category": "Latin Extended",
+    "keywords": [
+      "o",
+      "grave",
+      "small"
+    ]
+  },
+  {
+    "name": "oacute",
+    "entity": "oacute",
+    "decimal": "&#243;",
+    "hex": "&#xF3;",
+    "glyph": "ó",
+    "decimalRaw": 243,
+    "hexRaw": "F3",
+    "category": "Latin Extended",
+    "keywords": [
+      "o",
+      "acute",
+      "small"
+    ]
+  },
+  {
+    "name": "ocirc",
+    "entity": "ocirc",
+    "decimal": "&#244;",
+    "hex": "&#xF4;",
+    "glyph": "ô",
+    "decimalRaw": 244,
+    "hexRaw": "F4",
+    "category": "Latin Extended",
+    "keywords": [
+      "o",
+      "circumflex",
+      "small"
+    ]
+  },
+  {
+    "name": "otilde",
+    "entity": "otilde",
+    "decimal": "&#245;",
+    "hex": "&#xF5;",
+    "glyph": "õ",
+    "decimalRaw": 245,
+    "hexRaw": "F5",
+    "category": "Latin Extended",
+    "keywords": [
+      "o",
+      "tilde",
+      "small"
+    ]
+  },
+  {
+    "name": "ouml",
+    "entity": "ouml",
+    "decimal": "&#246;",
+    "hex": "&#xF6;",
+    "glyph": "ö",
+    "decimalRaw": 246,
+    "hexRaw": "F6",
+    "category": "Latin Extended",
+    "keywords": [
+      "o",
+      "diaeresis",
+      "small"
+    ]
+  },
+  {
+    "name": "divide2",
+    "entity": "divide2",
+    "decimal": "&#247;",
+    "hex": "&#xF7;",
+    "glyph": "÷",
+    "decimalRaw": 247,
+    "hexRaw": "F7",
+    "category": "Latin Extended",
+    "keywords": [
+      "division",
+      "sign"
+    ]
+  },
+  {
+    "name": "oslash",
+    "entity": "oslash",
+    "decimal": "&#248;",
+    "hex": "&#xF8;",
+    "glyph": "ø",
+    "decimalRaw": 248,
+    "hexRaw": "F8",
+    "category": "Latin Extended",
+    "keywords": [
+      "o",
+      "slash",
+      "small"
+    ]
+  },
+  {
+    "name": "ugrave",
+    "entity": "ugrave",
+    "decimal": "&#249;",
+    "hex": "&#xF9;",
+    "glyph": "ù",
+    "decimalRaw": 249,
+    "hexRaw": "F9",
+    "category": "Latin Extended",
+    "keywords": [
+      "u",
+      "grave",
+      "small"
+    ]
+  },
+  {
+    "name": "uacute",
+    "entity": "uacute",
+    "decimal": "&#250;",
+    "hex": "&#xFA;",
+    "glyph": "ú",
+    "decimalRaw": 250,
+    "hexRaw": "FA",
+    "category": "Latin Extended",
+    "keywords": [
+      "u",
+      "acute",
+      "small"
+    ]
+  },
+  {
+    "name": "ucirc",
+    "entity": "ucirc",
+    "decimal": "&#251;",
+    "hex": "&#xFB;",
+    "glyph": "û",
+    "decimalRaw": 251,
+    "hexRaw": "FB",
+    "category": "Latin Extended",
+    "keywords": [
+      "u",
+      "circumflex",
+      "small"
+    ]
+  },
+  {
+    "name": "uuml",
+    "entity": "uuml",
+    "decimal": "&#252;",
+    "hex": "&#xFC;",
+    "glyph": "ü",
+    "decimalRaw": 252,
+    "hexRaw": "FC",
+    "category": "Latin Extended",
+    "keywords": [
+      "u",
+      "diaeresis",
+      "small"
+    ]
+  },
+  {
+    "name": "yacute",
+    "entity": "yacute",
+    "decimal": "&#253;",
+    "hex": "&#xFD;",
+    "glyph": "ý",
+    "decimalRaw": 253,
+    "hexRaw": "FD",
+    "category": "Latin Extended",
+    "keywords": [
+      "y",
+      "acute",
+      "small"
+    ]
+  },
+  {
+    "name": "thorn",
+    "entity": "thorn",
+    "decimal": "&#254;",
+    "hex": "&#xFE;",
+    "glyph": "þ",
+    "decimalRaw": 254,
+    "hexRaw": "FE",
+    "category": "Latin Extended",
+    "keywords": [
+      "thorn",
+      "small",
+      "icelandic"
+    ]
+  },
+  {
+    "name": "yuml",
+    "entity": "yuml",
+    "decimal": "&#255;",
+    "hex": "&#xFF;",
+    "glyph": "ÿ",
+    "decimalRaw": 255,
+    "hexRaw": "FF",
+    "category": "Latin Extended",
+    "keywords": [
+      "y",
+      "diaeresis",
+      "small"
+    ]
+  },
+  {
+    "name": "OElig",
+    "entity": "OElig",
+    "decimal": "&#338;",
+    "hex": "&#x152;",
+    "glyph": "Œ",
+    "decimalRaw": 338,
+    "hexRaw": "152",
+    "category": "Latin Extended",
+    "keywords": [
+      "OE",
+      "ligature",
+      "capital"
+    ]
+  },
+  {
+    "name": "oelig",
+    "entity": "oelig",
+    "decimal": "&#339;",
+    "hex": "&#x153;",
+    "glyph": "œ",
+    "decimalRaw": 339,
+    "hexRaw": "153",
+    "category": "Latin Extended",
+    "keywords": [
+      "oe",
+      "ligature",
+      "small"
+    ]
+  },
+  {
+    "name": "Scaron",
+    "entity": "Scaron",
+    "decimal": "&#352;",
+    "hex": "&#x160;",
+    "glyph": "Š",
+    "decimalRaw": 352,
+    "hexRaw": "160",
+    "category": "Latin Extended",
+    "keywords": [
+      "S",
+      "caron",
+      "capital"
+    ]
+  },
+  {
+    "name": "scaron",
+    "entity": "scaron",
+    "decimal": "&#353;",
+    "hex": "&#x161;",
+    "glyph": "š",
+    "decimalRaw": 353,
+    "hexRaw": "161",
+    "category": "Latin Extended",
+    "keywords": [
+      "s",
+      "caron",
+      "small"
+    ]
+  },
+  {
+    "name": "Yuml",
+    "entity": "Yuml",
+    "decimal": "&#376;",
+    "hex": "&#x178;",
+    "glyph": "Ÿ",
+    "decimalRaw": 376,
+    "hexRaw": "178",
+    "category": "Latin Extended",
+    "keywords": [
+      "Y",
+      "diaeresis",
+      "capital"
+    ]
+  },
+  {
+    "name": "fnof",
+    "entity": "fnof",
+    "decimal": "&#402;",
+    "hex": "&#x192;",
+    "glyph": "ƒ",
+    "decimalRaw": 402,
+    "hexRaw": "192",
+    "category": "Latin Extended",
+    "keywords": [
+      "function",
+      "f",
+      "italic"
+    ]
+  },
+  {
+    "name": "block",
+    "entity": "block",
+    "decimal": "&#9608;",
+    "hex": "&#x2588;",
+    "glyph": "█",
+    "decimalRaw": 9608,
+    "hexRaw": "2588",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "full",
+      "block",
+      "solid",
+      "square",
+      "fill",
+      "rectangle"
+    ]
+  },
+  {
+    "name": "blk12",
+    "entity": "blk12",
+    "decimal": "&#9617;",
+    "hex": "&#x2591;",
+    "glyph": "░",
+    "decimalRaw": 9617,
+    "hexRaw": "2591",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "light",
+      "shade",
+      "25",
+      "percent",
+      "block",
+      "texture"
+    ]
+  },
+  {
+    "name": "blk14",
+    "entity": "blk14",
+    "decimal": "&#9618;",
+    "hex": "&#x2592;",
+    "glyph": "▒",
+    "decimalRaw": 9618,
+    "hexRaw": "2592",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "medium",
+      "shade",
+      "50",
+      "percent",
+      "block",
+      "texture"
+    ]
+  },
+  {
+    "name": "blk34",
+    "entity": "blk34",
+    "decimal": "&#9619;",
+    "hex": "&#x2593;",
+    "glyph": "▓",
+    "decimalRaw": 9619,
+    "hexRaw": "2593",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "dark",
+      "shade",
+      "75",
+      "percent",
+      "block",
+      "texture"
+    ]
+  },
+  {
+    "name": "squarf",
+    "entity": "squarf",
+    "decimal": "&#9632;",
+    "hex": "&#x25A0;",
+    "glyph": "■",
+    "decimalRaw": 9632,
+    "hexRaw": "25A0",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "square",
+      "filled",
+      "solid"
+    ]
+  },
+  {
+    "name": "squ",
+    "entity": "squ",
+    "decimal": "&#9633;",
+    "hex": "&#x25A1;",
+    "glyph": "□",
+    "decimalRaw": 9633,
+    "hexRaw": "25A1",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "square",
+      "empty",
+      "outline"
+    ]
+  },
+  {
+    "name": "squf",
+    "entity": "squf",
+    "decimal": "&#9642;",
+    "hex": "&#x25AA;",
+    "glyph": "▪",
+    "decimalRaw": 9642,
+    "hexRaw": "25AA",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "small",
+      "black",
+      "square",
+      "filled"
+    ]
+  },
+  {
+    "name": "EmptyVerySmallSquare",
+    "entity": "EmptyVerySmallSquare",
+    "decimal": "&#9643;",
+    "hex": "&#x25AB;",
+    "glyph": "▫",
+    "decimalRaw": 9643,
+    "hexRaw": "25AB",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "small",
+      "white",
+      "square",
+      "empty",
+      "outline"
+    ]
+  },
+  {
+    "name": "rect",
+    "entity": "rect",
+    "decimal": "&#9644;",
+    "hex": "&#x25AC;",
+    "glyph": "▬",
+    "decimalRaw": 9644,
+    "hexRaw": "25AC",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "rectangle",
+      "horizontal"
+    ]
+  },
+  {
+    "name": "marker",
+    "entity": "marker",
+    "decimal": "&#9646;",
+    "hex": "&#x25AE;",
+    "glyph": "▮",
+    "decimalRaw": 9646,
+    "hexRaw": "25AE",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "vertical",
+      "rectangle",
+      "bar"
+    ]
+  },
+  {
+    "name": "utri",
+    "entity": "utri",
+    "decimal": "&#9651;",
+    "hex": "&#x25B3;",
+    "glyph": "△",
+    "decimalRaw": 9651,
+    "hexRaw": "25B3",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "up-pointing",
+      "triangle",
+      "empty"
+    ]
+  },
+  {
+    "name": "utrif",
+    "entity": "utrif",
+    "decimal": "&#9650;",
+    "hex": "&#x25B2;",
+    "glyph": "▲",
+    "decimalRaw": 9650,
+    "hexRaw": "25B2",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "up-pointing",
+      "triangle",
+      "filled"
+    ]
+  },
+  {
+    "name": "dtri",
+    "entity": "dtri",
+    "decimal": "&#9661;",
+    "hex": "&#x25BD;",
+    "glyph": "▽",
+    "decimalRaw": 9661,
+    "hexRaw": "25BD",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "down-pointing",
+      "triangle",
+      "empty"
+    ]
+  },
+  {
+    "name": "dtrif",
+    "entity": "dtrif",
+    "decimal": "&#9660;",
+    "hex": "&#x25BC;",
+    "glyph": "▼",
+    "decimalRaw": 9660,
+    "hexRaw": "25BC",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "down-pointing",
+      "triangle",
+      "filled"
+    ]
+  },
+  {
+    "name": "ltri",
+    "entity": "ltri",
+    "decimal": "&#9665;",
+    "hex": "&#x25C1;",
+    "glyph": "◁",
+    "decimalRaw": 9665,
+    "hexRaw": "25C1",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "left-pointing",
+      "triangle",
+      "empty"
+    ]
+  },
+  {
+    "name": "ltrif",
+    "entity": "ltrif",
+    "decimal": "&#9664;",
+    "hex": "&#x25C0;",
+    "glyph": "◀",
+    "decimalRaw": 9664,
+    "hexRaw": "25C0",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "left-pointing",
+      "triangle",
+      "filled"
+    ]
+  },
+  {
+    "name": "rtri",
+    "entity": "rtri",
+    "decimal": "&#9655;",
+    "hex": "&#x25B7;",
+    "glyph": "▷",
+    "decimalRaw": 9655,
+    "hexRaw": "25B7",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "right-pointing",
+      "triangle",
+      "empty"
+    ]
+  },
+  {
+    "name": "rtrif",
+    "entity": "rtrif",
+    "decimal": "&#9654;",
+    "hex": "&#x25B6;",
+    "glyph": "▶",
+    "decimalRaw": 9654,
+    "hexRaw": "25B6",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "right-pointing",
+      "triangle",
+      "filled"
+    ]
+  },
+  {
+    "name": "starf",
+    "entity": "starf",
+    "decimal": "&#9733;",
+    "hex": "&#x2605;",
+    "glyph": "★",
+    "decimalRaw": 9733,
+    "hexRaw": "2605",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "black",
+      "star",
+      "filled",
+      "asterisk"
+    ]
+  },
+  {
+    "name": "bigcirc",
+    "entity": "bigcirc",
+    "decimal": "&#9711;",
+    "hex": "&#x25EF;",
+    "glyph": "◯",
+    "decimalRaw": 9711,
+    "hexRaw": "25EF",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "large",
+      "circle",
+      "big",
+      "ring"
+    ]
+  },
+  {
+    "name": "big-black-square",
+    "entity": null,
+    "decimal": "&#11035;",
+    "hex": "&#x2B1B;",
+    "glyph": "⬛",
+    "decimalRaw": 11035,
+    "hexRaw": "2B1B",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "large",
+      "black",
+      "square",
+      "big"
+    ]
+  },
+  {
+    "name": "big-white-square",
+    "entity": null,
+    "decimal": "&#11036;",
+    "hex": "&#x2B1C;",
+    "glyph": "⬜",
+    "decimalRaw": 11036,
+    "hexRaw": "2B1C",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "large",
+      "white",
+      "square",
+      "big"
+    ]
+  },
+  {
+    "name": "big-black-circle",
+    "entity": null,
+    "decimal": "&#11044;",
+    "hex": "&#x2B24;",
+    "glyph": "⬤",
+    "decimalRaw": 11044,
+    "hexRaw": "2B24",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "large",
+      "black",
+      "circle",
+      "big",
+      "dot"
+    ]
+  },
+  {
+    "name": "big-black-diamond",
+    "entity": null,
+    "decimal": "&#11045;",
+    "hex": "&#x2B25;",
+    "glyph": "⬥",
+    "decimalRaw": 11045,
+    "hexRaw": "2B25",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "large",
+      "black",
+      "diamond",
+      "big"
+    ]
+  },
+  {
+    "name": "med-black-square",
+    "entity": null,
+    "decimal": "&#11036;",
+    "hex": "&#x2B1C;",
+    "glyph": "⬜",
+    "decimalRaw": 11036,
+    "hexRaw": "2B1C",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "medium",
+      "black",
+      "square"
+    ]
+  },
+  {
+    "name": "parallelogram",
+    "entity": null,
+    "decimal": "&#9649;",
+    "hex": "&#x25B1;",
+    "glyph": "▱",
+    "decimalRaw": 9649,
+    "hexRaw": "25B1",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "parallelogram",
+      "slanted"
+    ]
+  },
+  {
+    "name": "lozenge-outline",
+    "entity": null,
+    "decimal": "&#9674;",
+    "hex": "&#x25CA;",
+    "glyph": "◊",
+    "decimalRaw": 9674,
+    "hexRaw": "25CA",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "lozenge",
+      "diamond",
+      "outline"
+    ]
+  },
+  {
+    "name": "circle-dot",
+    "entity": null,
+    "decimal": "&#9678;",
+    "hex": "&#x25CE;",
+    "glyph": "◎",
+    "decimalRaw": 9678,
+    "hexRaw": "25CE",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "circled",
+      "dot",
+      "operator"
+    ]
+  },
+  {
+    "name": "circle-ring",
+    "entity": null,
+    "decimal": "&#9675;",
+    "hex": "&#x25CB;",
+    "glyph": "○",
+    "decimalRaw": 9675,
+    "hexRaw": "25CB",
+    "category": "Geometric Shapes",
+    "keywords": [
+      "white",
+      "circle",
+      "ring"
+    ]
+  },
+  {
+    "name": "flat",
+    "entity": "flat",
+    "decimal": "&#9837;",
+    "hex": "&#x266D;",
+    "glyph": "♭",
+    "decimalRaw": 9837,
+    "hexRaw": "266D",
+    "category": "Dingbats",
+    "keywords": [
+      "music",
+      "flat",
+      "sign",
+      "note",
+      "b"
+    ]
+  },
+  {
+    "name": "sharp",
+    "entity": "sharp",
+    "decimal": "&#9839;",
+    "hex": "&#x266F;",
+    "glyph": "♯",
+    "decimalRaw": 9839,
+    "hexRaw": "266F",
+    "category": "Dingbats",
+    "keywords": [
+      "music",
+      "sharp",
+      "sign",
+      "note",
+      "hash"
+    ]
+  },
+  {
+    "name": "natural",
+    "entity": "natural",
+    "decimal": "&#9838;",
+    "hex": "&#x266E;",
+    "glyph": "♮",
+    "decimalRaw": 9838,
+    "hexRaw": "266E",
+    "category": "Dingbats",
+    "keywords": [
+      "music",
+      "natural",
+      "sign",
+      "note",
+      "cancel"
+    ]
+  },
+  {
+    "name": "white-heart",
+    "entity": null,
+    "decimal": "&#9825;",
+    "hex": "&#x2661;",
+    "glyph": "♡",
+    "decimalRaw": 9825,
+    "hexRaw": "2661",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "heart",
+      "outline",
+      "love"
+    ]
+  },
+  {
+    "name": "white-diamond",
+    "entity": null,
+    "decimal": "&#9826;",
+    "hex": "&#x2662;",
+    "glyph": "♢",
+    "decimalRaw": 9826,
+    "hexRaw": "2662",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "diamond",
+      "suit",
+      "outline"
+    ]
+  },
+  {
+    "name": "white-spade",
+    "entity": null,
+    "decimal": "&#9828;",
+    "hex": "&#x2664;",
+    "glyph": "♤",
+    "decimalRaw": 9828,
+    "hexRaw": "2664",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "spade",
+      "suit",
+      "outline"
+    ]
+  },
+  {
+    "name": "white-club",
+    "entity": null,
+    "decimal": "&#9831;",
+    "hex": "&#x2667;",
+    "glyph": "♧",
+    "decimalRaw": 9831,
+    "hexRaw": "2667",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "club",
+      "suit",
+      "outline"
+    ]
+  },
+  {
+    "name": "checkmark",
+    "entity": null,
+    "decimal": "&#10003;",
+    "hex": "&#x2713;",
+    "glyph": "✓",
+    "decimalRaw": 10003,
+    "hexRaw": "2713",
+    "category": "Dingbats",
+    "keywords": [
+      "check",
+      "mark",
+      "tick",
+      "yes",
+      "done"
+    ]
+  },
+  {
+    "name": "ballot-x",
+    "entity": null,
+    "decimal": "&#10007;",
+    "hex": "&#x2717;",
+    "glyph": "✗",
+    "decimalRaw": 10007,
+    "hexRaw": "2717",
+    "category": "Dingbats",
+    "keywords": [
+      "ballot",
+      "x",
+      "cross",
+      "no",
+      "wrong"
+    ]
+  },
+  {
+    "name": "ballot-box",
+    "entity": null,
+    "decimal": "&#9744;",
+    "hex": "&#x2610;",
+    "glyph": "☐",
+    "decimalRaw": 9744,
+    "hexRaw": "2610",
+    "category": "Dingbats",
+    "keywords": [
+      "ballot",
+      "box",
+      "empty",
+      "checkbox"
+    ]
+  },
+  {
+    "name": "ballot-box-check",
+    "entity": null,
+    "decimal": "&#9745;",
+    "hex": "&#x2611;",
+    "glyph": "☑",
+    "decimalRaw": 9745,
+    "hexRaw": "2611",
+    "category": "Dingbats",
+    "keywords": [
+      "ballot",
+      "box",
+      "with",
+      "check",
+      "selected"
+    ]
+  },
+  {
+    "name": "ballot-box-x",
+    "entity": null,
+    "decimal": "&#9746;",
+    "hex": "&#x2612;",
+    "glyph": "☒",
+    "decimalRaw": 9746,
+    "hexRaw": "2612",
+    "category": "Dingbats",
+    "keywords": [
+      "ballot",
+      "box",
+      "with",
+      "x",
+      "cross",
+      "rejected"
+    ]
+  },
+  {
+    "name": "envelope",
+    "entity": null,
+    "decimal": "&#9993;",
+    "hex": "&#x2709;",
+    "glyph": "✉",
+    "decimalRaw": 9993,
+    "hexRaw": "2709",
+    "category": "Dingbats",
+    "keywords": [
+      "envelope",
+      "mail",
+      "letter"
+    ]
+  },
+  {
+    "name": "pencil",
+    "entity": null,
+    "decimal": "&#9999;",
+    "hex": "&#x270F;",
+    "glyph": "✏",
+    "decimalRaw": 9999,
+    "hexRaw": "270F",
+    "category": "Dingbats",
+    "keywords": [
+      "pencil",
+      "write",
+      "edit"
+    ]
+  },
+  {
+    "name": "scissors",
+    "entity": null,
+    "decimal": "&#9986;",
+    "hex": "&#x2702;",
+    "glyph": "✂",
+    "decimalRaw": 9986,
+    "hexRaw": "2702",
+    "category": "Dingbats",
+    "keywords": [
+      "scissors",
+      "cut",
+      "clip"
+    ]
+  },
+  {
+    "name": "airplane",
+    "entity": null,
+    "decimal": "&#9992;",
+    "hex": "&#x2708;",
+    "glyph": "✈",
+    "decimalRaw": 9992,
+    "hexRaw": "2708",
+    "category": "Dingbats",
+    "keywords": [
+      "airplane",
+      "plane",
+      "travel",
+      "fly"
+    ]
+  },
+  {
+    "name": "skull",
+    "entity": null,
+    "decimal": "&#9760;",
+    "hex": "&#x2620;",
+    "glyph": "☠",
+    "decimalRaw": 9760,
+    "hexRaw": "2620",
+    "category": "Dingbats",
+    "keywords": [
+      "skull",
+      "and",
+      "crossbones",
+      "death",
+      "danger",
+      "pirate"
+    ]
+  },
+  {
+    "name": "peace",
+    "entity": null,
+    "decimal": "&#9774;",
+    "hex": "&#x262E;",
+    "glyph": "☮",
+    "decimalRaw": 9774,
+    "hexRaw": "262E",
+    "category": "Dingbats",
+    "keywords": [
+      "peace",
+      "sign",
+      "dove"
+    ]
+  },
+  {
+    "name": "yin-yang",
+    "entity": null,
+    "decimal": "&#9775;",
+    "hex": "&#x262F;",
+    "glyph": "☯",
+    "decimalRaw": 9775,
+    "hexRaw": "262F",
+    "category": "Dingbats",
+    "keywords": [
+      "yin",
+      "yang",
+      "taiji",
+      "balance",
+      "taoist"
+    ]
+  },
+  {
+    "name": "hammer-sickle",
+    "entity": null,
+    "decimal": "&#9773;",
+    "hex": "&#x262D;",
+    "glyph": "☭",
+    "decimalRaw": 9773,
+    "hexRaw": "262D",
+    "category": "Dingbats",
+    "keywords": [
+      "hammer",
+      "and",
+      "sickle",
+      "communist",
+      "soviet"
+    ]
+  },
+  {
+    "name": "biohazard",
+    "entity": null,
+    "decimal": "&#9763;",
+    "hex": "&#x2623;",
+    "glyph": "☣",
+    "decimalRaw": 9763,
+    "hexRaw": "2623",
+    "category": "Dingbats",
+    "keywords": [
+      "biohazard",
+      "warning",
+      "toxic",
+      "biological"
+    ]
+  },
+  {
+    "name": "radioactive",
+    "entity": null,
+    "decimal": "&#9762;",
+    "hex": "&#x2622;",
+    "glyph": "☢",
+    "decimalRaw": 9762,
+    "hexRaw": "2622",
+    "category": "Dingbats",
+    "keywords": [
+      "radioactive",
+      "radiation",
+      "warning",
+      "nuclear"
+    ]
+  },
+  {
+    "name": "ankh",
+    "entity": null,
+    "decimal": "&#9765;",
+    "hex": "&#x2625;",
+    "glyph": "☥",
+    "decimalRaw": 9765,
+    "hexRaw": "2625",
+    "category": "Dingbats",
+    "keywords": [
+      "ankh",
+      "egyptian",
+      "cross",
+      "life"
+    ]
+  },
+  {
+    "name": "caduceus",
+    "entity": null,
+    "decimal": "&#9764;",
+    "hex": "&#x2624;",
+    "glyph": "☤",
+    "decimalRaw": 9764,
+    "hexRaw": "2624",
+    "category": "Dingbats",
+    "keywords": [
+      "caduceus",
+      "medical",
+      "staff",
+      "hermes",
+      "snakes"
+    ]
+  },
+  {
+    "name": "caution-sign",
+    "entity": null,
+    "decimal": "&#9761;",
+    "hex": "&#x2621;",
+    "glyph": "☡",
+    "decimalRaw": 9761,
+    "hexRaw": "2621",
+    "category": "Dingbats",
+    "keywords": [
+      "caution",
+      "warning",
+      "sign",
+      "triangular"
+    ]
+  },
+  {
+    "name": "smiley",
+    "entity": null,
+    "decimal": "&#9786;",
+    "hex": "&#x263A;",
+    "glyph": "☺",
+    "decimalRaw": 9786,
+    "hexRaw": "263A",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "smiling",
+      "face",
+      "happy",
+      "emoji"
+    ]
+  },
+  {
+    "name": "frowny",
+    "entity": null,
+    "decimal": "&#9785;",
+    "hex": "&#x2639;",
+    "glyph": "☹",
+    "decimalRaw": 9785,
+    "hexRaw": "2639",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "frowning",
+      "face",
+      "sad",
+      "emoji"
+    ]
+  },
+  {
+    "name": "sun",
+    "entity": null,
+    "decimal": "&#9788;",
+    "hex": "&#x263C;",
+    "glyph": "☼",
+    "decimalRaw": 9788,
+    "hexRaw": "263C",
+    "category": "Dingbats",
+    "keywords": [
+      "sun",
+      "weather",
+      "day"
+    ]
+  },
+  {
+    "name": "sun-solid",
+    "entity": null,
+    "decimal": "&#9737;",
+    "hex": "&#x2609;",
+    "glyph": "☉",
+    "decimalRaw": 9737,
+    "hexRaw": "2609",
+    "category": "Dingbats",
+    "keywords": [
+      "sun",
+      "solid",
+      "disc",
+      "weather"
+    ]
+  },
+  {
+    "name": "moon",
+    "entity": null,
+    "decimal": "&#9789;",
+    "hex": "&#x263D;",
+    "glyph": "☽",
+    "decimalRaw": 9789,
+    "hexRaw": "263D",
+    "category": "Dingbats",
+    "keywords": [
+      "first",
+      "quarter",
+      "moon",
+      "night",
+      "crescent"
+    ]
+  },
+  {
+    "name": "moon-last",
+    "entity": null,
+    "decimal": "&#9790;",
+    "hex": "&#x263E;",
+    "glyph": "☾",
+    "decimalRaw": 9790,
+    "hexRaw": "263E",
+    "category": "Dingbats",
+    "keywords": [
+      "last",
+      "quarter",
+      "moon",
+      "night",
+      "crescent"
+    ]
+  },
+  {
+    "name": "umbrella",
+    "entity": null,
+    "decimal": "&#9730;",
+    "hex": "&#x2602;",
+    "glyph": "☂",
+    "decimalRaw": 9730,
+    "hexRaw": "2602",
+    "category": "Dingbats",
+    "keywords": [
+      "umbrella",
+      "rain",
+      "weather"
+    ]
+  },
+  {
+    "name": "snowman",
+    "entity": null,
+    "decimal": "&#9731;",
+    "hex": "&#x2603;",
+    "glyph": "☃",
+    "decimalRaw": 9731,
+    "hexRaw": "2603",
+    "category": "Dingbats",
+    "keywords": [
+      "snowman",
+      "winter"
+    ]
+  },
+  {
+    "name": "comet",
+    "entity": null,
+    "decimal": "&#9732;",
+    "hex": "&#x2604;",
+    "glyph": "☄",
+    "decimalRaw": 9732,
+    "hexRaw": "2604",
+    "category": "Dingbats",
+    "keywords": [
+      "comet",
+      "space",
+      "tail"
+    ]
+  },
+  {
+    "name": "shamrock",
+    "entity": null,
+    "decimal": "&#9752;",
+    "hex": "&#x2618;",
+    "glyph": "☘",
+    "decimalRaw": 9752,
+    "hexRaw": "2618",
+    "category": "Dingbats",
+    "keywords": [
+      "shamrock",
+      "clover",
+      "ireland",
+      "luck"
+    ]
+  },
+  {
+    "name": "hotsprings",
+    "entity": null,
+    "decimal": "&#9832;",
+    "hex": "&#x2668;",
+    "glyph": "♨",
+    "decimalRaw": 9832,
+    "hexRaw": "2668",
+    "category": "Dingbats",
+    "keywords": [
+      "hot",
+      "springs",
+      "spa",
+      "onsen"
+    ]
+  },
+  {
+    "name": "index-left",
+    "entity": null,
+    "decimal": "&#9756;",
+    "hex": "&#x261C;",
+    "glyph": "☜",
+    "decimalRaw": 9756,
+    "hexRaw": "261C",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "left",
+      "pointing",
+      "index",
+      "hand"
+    ]
+  },
+  {
+    "name": "index-right",
+    "entity": null,
+    "decimal": "&#9758;",
+    "hex": "&#x261E;",
+    "glyph": "☞",
+    "decimalRaw": 9758,
+    "hexRaw": "261E",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "right",
+      "pointing",
+      "index",
+      "hand"
+    ]
+  },
+  {
+    "name": "index-up",
+    "entity": null,
+    "decimal": "&#9757;",
+    "hex": "&#x261D;",
+    "glyph": "☝",
+    "decimalRaw": 9757,
+    "hexRaw": "261D",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "up",
+      "pointing",
+      "index",
+      "hand"
+    ]
+  },
+  {
+    "name": "index-down",
+    "entity": null,
+    "decimal": "&#9759;",
+    "hex": "&#x261F;",
+    "glyph": "☟",
+    "decimalRaw": 9759,
+    "hexRaw": "261F",
+    "category": "Dingbats",
+    "keywords": [
+      "white",
+      "down",
+      "pointing",
+      "index",
+      "hand"
+    ]
+  },
+  {
+    "name": "star-crescent",
+    "entity": null,
+    "decimal": "&#9770;",
+    "hex": "&#x262A;",
+    "glyph": "☪",
+    "decimalRaw": 9770,
+    "hexRaw": "262A",
+    "category": "Dingbats",
+    "keywords": [
+      "star",
+      "and",
+      "crescent",
+      "islam",
+      "muslim"
+    ]
+  },
+  {
+    "name": "orthodox-cross",
+    "entity": null,
+    "decimal": "&#9766;",
+    "hex": "&#x2626;",
+    "glyph": "☦",
+    "decimalRaw": 9766,
+    "hexRaw": "2626",
+    "category": "Dingbats",
+    "keywords": [
+      "orthodox",
+      "cross",
+      "russian",
+      "eastern"
+    ]
+  },
+  {
+    "name": "cross-of-lorraine",
+    "entity": null,
+    "decimal": "&#9768;",
+    "hex": "&#x2628;",
+    "glyph": "☨",
+    "decimalRaw": 9768,
+    "hexRaw": "2628",
+    "category": "Dingbats",
+    "keywords": [
+      "cross",
+      "of",
+      "lorraine",
+      "double",
+      "bar"
+    ]
+  },
+  {
+    "name": "wheel-of-dharma",
+    "entity": null,
+    "decimal": "&#9784;",
+    "hex": "&#x2638;",
+    "glyph": "☸",
+    "decimalRaw": 9784,
+    "hexRaw": "2638",
+    "category": "Dingbats",
+    "keywords": [
+      "wheel",
+      "of",
+      "dharma",
+      "buddhist"
+    ]
+  },
+  {
+    "name": "fleur-de-lis",
+    "entity": null,
+    "decimal": "&#10087;",
+    "hex": "&#x2767;",
+    "glyph": "❧",
+    "decimalRaw": 10087,
+    "hexRaw": "2767",
+    "category": "Dingbats",
+    "keywords": [
+      "fleur",
+      "de",
+      "lis",
+      "decorative",
+      "flower"
+    ]
+  },
+  {
+    "name": "trigram-heaven",
+    "entity": null,
+    "decimal": "&#9776;",
+    "hex": "&#x2630;",
+    "glyph": "☰",
+    "decimalRaw": 9776,
+    "hexRaw": "2630",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "heaven",
+      "qian",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-lake",
+    "entity": null,
+    "decimal": "&#9777;",
+    "hex": "&#x2631;",
+    "glyph": "☱",
+    "decimalRaw": 9777,
+    "hexRaw": "2631",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "lake",
+      "dui",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-fire",
+    "entity": null,
+    "decimal": "&#9778;",
+    "hex": "&#x2632;",
+    "glyph": "☲",
+    "decimalRaw": 9778,
+    "hexRaw": "2632",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "fire",
+      "li",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-thunder",
+    "entity": null,
+    "decimal": "&#9779;",
+    "hex": "&#x2633;",
+    "glyph": "☳",
+    "decimalRaw": 9779,
+    "hexRaw": "2633",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "thunder",
+      "zhen",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-wind",
+    "entity": null,
+    "decimal": "&#9780;",
+    "hex": "&#x2634;",
+    "glyph": "☴",
+    "decimalRaw": 9780,
+    "hexRaw": "2634",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "wind",
+      "xun",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-water",
+    "entity": null,
+    "decimal": "&#9781;",
+    "hex": "&#x2635;",
+    "glyph": "☵",
+    "decimalRaw": 9781,
+    "hexRaw": "2635",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "water",
+      "kan",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-mountain",
+    "entity": null,
+    "decimal": "&#9782;",
+    "hex": "&#x2636;",
+    "glyph": "☶",
+    "decimalRaw": 9782,
+    "hexRaw": "2636",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "mountain",
+      "gen",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "trigram-earth",
+    "entity": null,
+    "decimal": "&#9783;",
+    "hex": "&#x2637;",
+    "glyph": "☷",
+    "decimalRaw": 9783,
+    "hexRaw": "2637",
+    "category": "Dingbats",
+    "keywords": [
+      "trigram",
+      "for",
+      "earth",
+      "kun",
+      "i-ching"
+    ]
+  },
+  {
+    "name": "aries",
+    "entity": "aries",
+    "decimal": "&#9800;",
+    "hex": "&#x2648;",
+    "glyph": "♈",
+    "decimalRaw": 9800,
+    "hexRaw": "2648",
+    "category": "Astrology",
+    "keywords": [
+      "aries",
+      "zodiac",
+      "ram",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "taurus",
+    "entity": "taurus",
+    "decimal": "&#9801;",
+    "hex": "&#x2649;",
+    "glyph": "♉",
+    "decimalRaw": 9801,
+    "hexRaw": "2649",
+    "category": "Astrology",
+    "keywords": [
+      "taurus",
+      "zodiac",
+      "bull",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "gemini",
+    "entity": "gemini",
+    "decimal": "&#9802;",
+    "hex": "&#x264A;",
+    "glyph": "♊",
+    "decimalRaw": 9802,
+    "hexRaw": "264A",
+    "category": "Astrology",
+    "keywords": [
+      "gemini",
+      "zodiac",
+      "twins",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "cancer",
+    "entity": "cancer",
+    "decimal": "&#9803;",
+    "hex": "&#x264B;",
+    "glyph": "♋",
+    "decimalRaw": 9803,
+    "hexRaw": "264B",
+    "category": "Astrology",
+    "keywords": [
+      "cancer",
+      "zodiac",
+      "crab",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "leo",
+    "entity": "leo",
+    "decimal": "&#9804;",
+    "hex": "&#x264C;",
+    "glyph": "♌",
+    "decimalRaw": 9804,
+    "hexRaw": "264C",
+    "category": "Astrology",
+    "keywords": [
+      "leo",
+      "zodiac",
+      "lion",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "virgo",
+    "entity": "virgo",
+    "decimal": "&#9805;",
+    "hex": "&#x264D;",
+    "glyph": "♍",
+    "decimalRaw": 9805,
+    "hexRaw": "264D",
+    "category": "Astrology",
+    "keywords": [
+      "virgo",
+      "zodiac",
+      "maiden",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "libra",
+    "entity": "libra",
+    "decimal": "&#9806;",
+    "hex": "&#x264E;",
+    "glyph": "♎",
+    "decimalRaw": 9806,
+    "hexRaw": "264E",
+    "category": "Astrology",
+    "keywords": [
+      "libra",
+      "zodiac",
+      "scales",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "scorpio",
+    "entity": "scorpio",
+    "decimal": "&#9807;",
+    "hex": "&#x264F;",
+    "glyph": "♏",
+    "decimalRaw": 9807,
+    "hexRaw": "264F",
+    "category": "Astrology",
+    "keywords": [
+      "scorpio",
+      "zodiac",
+      "scorpion",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "sagittarius",
+    "entity": "sagittarius",
+    "decimal": "&#9808;",
+    "hex": "&#x2650;",
+    "glyph": "♐",
+    "decimalRaw": 9808,
+    "hexRaw": "2650",
+    "category": "Astrology",
+    "keywords": [
+      "sagittarius",
+      "zodiac",
+      "archer",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "capricorn",
+    "entity": "capricorn",
+    "decimal": "&#9809;",
+    "hex": "&#x2651;",
+    "glyph": "♑",
+    "decimalRaw": 9809,
+    "hexRaw": "2651",
+    "category": "Astrology",
+    "keywords": [
+      "capricorn",
+      "zodiac",
+      "goat",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "aquarius",
+    "entity": "aquarius",
+    "decimal": "&#9810;",
+    "hex": "&#x2652;",
+    "glyph": "♒",
+    "decimalRaw": 9810,
+    "hexRaw": "2652",
+    "category": "Astrology",
+    "keywords": [
+      "aquarius",
+      "zodiac",
+      "water",
+      "bearer",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "pisces",
+    "entity": "pisces",
+    "decimal": "&#9811;",
+    "hex": "&#x2653;",
+    "glyph": "♓",
+    "decimalRaw": 9811,
+    "hexRaw": "2653",
+    "category": "Astrology",
+    "keywords": [
+      "pisces",
+      "zodiac",
+      "fish",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "mercury",
+    "entity": null,
+    "decimal": "&#9791;",
+    "hex": "&#x263F;",
+    "glyph": "☿",
+    "decimalRaw": 9791,
+    "hexRaw": "263F",
+    "category": "Astrology",
+    "keywords": [
+      "mercury",
+      "planet",
+      "sign",
+      "alchemy"
+    ]
+  },
+  {
+    "name": "earth",
+    "entity": null,
+    "decimal": "&#9793;",
+    "hex": "&#x2641;",
+    "glyph": "♁",
+    "decimalRaw": 9793,
+    "hexRaw": "2641",
+    "category": "Astrology",
+    "keywords": [
+      "earth",
+      "planet",
+      "sign",
+      "globe"
+    ]
+  },
+  {
+    "name": "jupiter",
+    "entity": null,
+    "decimal": "&#9795;",
+    "hex": "&#x2643;",
+    "glyph": "♃",
+    "decimalRaw": 9795,
+    "hexRaw": "2643",
+    "category": "Astrology",
+    "keywords": [
+      "jupiter",
+      "planet",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "saturn",
+    "entity": null,
+    "decimal": "&#9796;",
+    "hex": "&#x2644;",
+    "glyph": "♄",
+    "decimalRaw": 9796,
+    "hexRaw": "2644",
+    "category": "Astrology",
+    "keywords": [
+      "saturn",
+      "planet",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "uranus",
+    "entity": null,
+    "decimal": "&#9797;",
+    "hex": "&#x2645;",
+    "glyph": "♅",
+    "decimalRaw": 9797,
+    "hexRaw": "2645",
+    "category": "Astrology",
+    "keywords": [
+      "uranus",
+      "planet",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "neptune",
+    "entity": null,
+    "decimal": "&#9798;",
+    "hex": "&#x2646;",
+    "glyph": "♆",
+    "decimalRaw": 9798,
+    "hexRaw": "2646",
+    "category": "Astrology",
+    "keywords": [
+      "neptune",
+      "planet",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "pluto",
+    "entity": null,
+    "decimal": "&#9799;",
+    "hex": "&#x2647;",
+    "glyph": "♇",
+    "decimalRaw": 9799,
+    "hexRaw": "2647",
+    "category": "Astrology",
+    "keywords": [
+      "pluto",
+      "planet",
+      "sign",
+      "astrology"
+    ]
+  },
+  {
+    "name": "white-king",
+    "entity": null,
+    "decimal": "&#9812;",
+    "hex": "&#x2654;",
+    "glyph": "♔",
+    "decimalRaw": 9812,
+    "hexRaw": "2654",
+    "category": "Chess",
+    "keywords": [
+      "white",
+      "king",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "white-queen",
+    "entity": null,
+    "decimal": "&#9813;",
+    "hex": "&#x2655;",
+    "glyph": "♕",
+    "decimalRaw": 9813,
+    "hexRaw": "2655",
+    "category": "Chess",
+    "keywords": [
+      "white",
+      "queen",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "white-rook",
+    "entity": null,
+    "decimal": "&#9814;",
+    "hex": "&#x2656;",
+    "glyph": "♖",
+    "decimalRaw": 9814,
+    "hexRaw": "2656",
+    "category": "Chess",
+    "keywords": [
+      "white",
+      "rook",
+      "castle",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "white-bishop",
+    "entity": null,
+    "decimal": "&#9815;",
+    "hex": "&#x2657;",
+    "glyph": "♗",
+    "decimalRaw": 9815,
+    "hexRaw": "2657",
+    "category": "Chess",
+    "keywords": [
+      "white",
+      "bishop",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "white-knight",
+    "entity": null,
+    "decimal": "&#9816;",
+    "hex": "&#x2658;",
+    "glyph": "♘",
+    "decimalRaw": 9816,
+    "hexRaw": "2658",
+    "category": "Chess",
+    "keywords": [
+      "white",
+      "knight",
+      "horse",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "white-pawn",
+    "entity": null,
+    "decimal": "&#9817;",
+    "hex": "&#x2659;",
+    "glyph": "♙",
+    "decimalRaw": 9817,
+    "hexRaw": "2659",
+    "category": "Chess",
+    "keywords": [
+      "white",
+      "pawn",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "black-king",
+    "entity": null,
+    "decimal": "&#9818;",
+    "hex": "&#x265A;",
+    "glyph": "♚",
+    "decimalRaw": 9818,
+    "hexRaw": "265A",
+    "category": "Chess",
+    "keywords": [
+      "black",
+      "king",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "black-queen",
+    "entity": null,
+    "decimal": "&#9819;",
+    "hex": "&#x265B;",
+    "glyph": "♛",
+    "decimalRaw": 9819,
+    "hexRaw": "265B",
+    "category": "Chess",
+    "keywords": [
+      "black",
+      "queen",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "black-rook",
+    "entity": null,
+    "decimal": "&#9820;",
+    "hex": "&#x265C;",
+    "glyph": "♜",
+    "decimalRaw": 9820,
+    "hexRaw": "265C",
+    "category": "Chess",
+    "keywords": [
+      "black",
+      "rook",
+      "castle",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "black-bishop",
+    "entity": null,
+    "decimal": "&#9821;",
+    "hex": "&#x265D;",
+    "glyph": "♝",
+    "decimalRaw": 9821,
+    "hexRaw": "265D",
+    "category": "Chess",
+    "keywords": [
+      "black",
+      "bishop",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "black-knight",
+    "entity": null,
+    "decimal": "&#9822;",
+    "hex": "&#x265E;",
+    "glyph": "♞",
+    "decimalRaw": 9822,
+    "hexRaw": "265E",
+    "category": "Chess",
+    "keywords": [
+      "black",
+      "knight",
+      "horse",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "black-pawn",
+    "entity": null,
+    "decimal": "&#9823;",
+    "hex": "&#x265F;",
+    "glyph": "♟",
+    "decimalRaw": 9823,
+    "hexRaw": "265F",
+    "category": "Chess",
+    "keywords": [
+      "black",
+      "pawn",
+      "chess",
+      "piece"
+    ]
+  },
+  {
+    "name": "ideographic-comma",
+    "entity": null,
+    "decimal": "&#12289;",
+    "hex": "&#x3001;",
+    "glyph": "、",
+    "decimalRaw": 12289,
+    "hexRaw": "3001",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "ideographic",
+      "comma",
+      "chinese",
+      "japanese"
+    ]
+  },
+  {
+    "name": "ideographic-full-stop",
+    "entity": null,
+    "decimal": "&#12290;",
+    "hex": "&#x3002;",
+    "glyph": "。",
+    "decimalRaw": 12290,
+    "hexRaw": "3002",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "ideographic",
+      "full",
+      "stop",
+      "period",
+      "chinese",
+      "japanese"
+    ]
+  },
+  {
+    "name": "ditto-mark",
+    "entity": null,
+    "decimal": "&#12291;",
+    "hex": "&#x3003;",
+    "glyph": "〃",
+    "decimalRaw": 12291,
+    "hexRaw": "3003",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "ditto",
+      "mark",
+      "repeat",
+      "same"
+    ]
+  },
+  {
+    "name": "left-angle-bracket-cjk",
+    "entity": null,
+    "decimal": "&#12296;",
+    "hex": "&#x3008;",
+    "glyph": "〈",
+    "decimalRaw": 12296,
+    "hexRaw": "3008",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "angle",
+      "bracket",
+      "cjk",
+      "japanese"
+    ]
+  },
+  {
+    "name": "right-angle-bracket-cjk",
+    "entity": null,
+    "decimal": "&#12297;",
+    "hex": "&#x3009;",
+    "glyph": "〉",
+    "decimalRaw": 12297,
+    "hexRaw": "3009",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "angle",
+      "bracket",
+      "cjk",
+      "japanese"
+    ]
+  },
+  {
+    "name": "left-double-angle-cjk",
+    "entity": null,
+    "decimal": "&#12298;",
+    "hex": "&#x300A;",
+    "glyph": "《",
+    "decimalRaw": 12298,
+    "hexRaw": "300A",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "double",
+      "angle",
+      "bracket",
+      "book",
+      "title",
+      "cjk"
+    ]
+  },
+  {
+    "name": "right-double-angle-cjk",
+    "entity": null,
+    "decimal": "&#12299;",
+    "hex": "&#x300B;",
+    "glyph": "》",
+    "decimalRaw": 12299,
+    "hexRaw": "300B",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "double",
+      "angle",
+      "bracket",
+      "book",
+      "title",
+      "cjk"
+    ]
+  },
+  {
+    "name": "left-corner-bracket",
+    "entity": null,
+    "decimal": "&#12300;",
+    "hex": "&#x300C;",
+    "glyph": "「",
+    "decimalRaw": 12300,
+    "hexRaw": "300C",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "corner",
+      "bracket",
+      "cjk",
+      "japanese",
+      "quote"
+    ]
+  },
+  {
+    "name": "right-corner-bracket",
+    "entity": null,
+    "decimal": "&#12301;",
+    "hex": "&#x300D;",
+    "glyph": "」",
+    "decimalRaw": 12301,
+    "hexRaw": "300D",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "corner",
+      "bracket",
+      "cjk",
+      "japanese",
+      "quote"
+    ]
+  },
+  {
+    "name": "left-white-corner",
+    "entity": null,
+    "decimal": "&#12302;",
+    "hex": "&#x300E;",
+    "glyph": "『",
+    "decimalRaw": 12302,
+    "hexRaw": "300E",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "white",
+      "corner",
+      "bracket",
+      "cjk",
+      "quote"
+    ]
+  },
+  {
+    "name": "right-white-corner",
+    "entity": null,
+    "decimal": "&#12303;",
+    "hex": "&#x300F;",
+    "glyph": "』",
+    "decimalRaw": 12303,
+    "hexRaw": "300F",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "white",
+      "corner",
+      "bracket",
+      "cjk",
+      "quote"
+    ]
+  },
+  {
+    "name": "left-lenticular",
+    "entity": null,
+    "decimal": "&#12304;",
+    "hex": "&#x3010;",
+    "glyph": "【",
+    "decimalRaw": 12304,
+    "hexRaw": "3010",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "black",
+      "lenticular",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "right-lenticular",
+    "entity": null,
+    "decimal": "&#12305;",
+    "hex": "&#x3011;",
+    "glyph": "】",
+    "decimalRaw": 12305,
+    "hexRaw": "3011",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "black",
+      "lenticular",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "left-tortoise-shell",
+    "entity": null,
+    "decimal": "&#12308;",
+    "hex": "&#x3014;",
+    "glyph": "〔",
+    "decimalRaw": 12308,
+    "hexRaw": "3014",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "tortoise",
+      "shell",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "right-tortoise-shell",
+    "entity": null,
+    "decimal": "&#12309;",
+    "hex": "&#x3015;",
+    "glyph": "〕",
+    "decimalRaw": 12309,
+    "hexRaw": "3015",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "tortoise",
+      "shell",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "left-white-lenticular",
+    "entity": null,
+    "decimal": "&#12310;",
+    "hex": "&#x3016;",
+    "glyph": "〖",
+    "decimalRaw": 12310,
+    "hexRaw": "3016",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "white",
+      "lenticular",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "right-white-lenticular",
+    "entity": null,
+    "decimal": "&#12311;",
+    "hex": "&#x3017;",
+    "glyph": "〗",
+    "decimalRaw": 12311,
+    "hexRaw": "3017",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "white",
+      "lenticular",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "left-white-tortoise",
+    "entity": null,
+    "decimal": "&#12312;",
+    "hex": "&#x3018;",
+    "glyph": "〘",
+    "decimalRaw": 12312,
+    "hexRaw": "3018",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "white",
+      "tortoise",
+      "shell",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "right-white-tortoise",
+    "entity": null,
+    "decimal": "&#12313;",
+    "hex": "&#x3019;",
+    "glyph": "〙",
+    "decimalRaw": 12313,
+    "hexRaw": "3019",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "white",
+      "tortoise",
+      "shell",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "left-white-square-brk",
+    "entity": null,
+    "decimal": "&#12314;",
+    "hex": "&#x301A;",
+    "glyph": "〚",
+    "decimalRaw": 12314,
+    "hexRaw": "301A",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "left",
+      "white",
+      "square",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "right-white-square-brk",
+    "entity": null,
+    "decimal": "&#12315;",
+    "hex": "&#x301B;",
+    "glyph": "〛",
+    "decimalRaw": 12315,
+    "hexRaw": "301B",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "right",
+      "white",
+      "square",
+      "bracket",
+      "cjk"
+    ]
+  },
+  {
+    "name": "wavy-dash-cjk",
+    "entity": null,
+    "decimal": "&#12336;",
+    "hex": "&#x3030;",
+    "glyph": "〰",
+    "decimalRaw": 12336,
+    "hexRaw": "3030",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "wavy",
+      "dash",
+      "cjk",
+      "chinese",
+      "japanese"
+    ]
+  },
+  {
+    "name": "fullwidth-exclamation",
+    "entity": null,
+    "decimal": "&#65281;",
+    "hex": "&#xFF01;",
+    "glyph": "！",
+    "decimalRaw": 65281,
+    "hexRaw": "FF01",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "exclamation",
+      "mark",
+      "chinese"
+    ]
+  },
+  {
+    "name": "fullwidth-question",
+    "entity": null,
+    "decimal": "&#65291;",
+    "hex": "&#xFF0B;",
+    "glyph": "＋",
+    "decimalRaw": 65291,
+    "hexRaw": "FF0B",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "question",
+      "mark",
+      "chinese"
+    ]
+  },
+  {
+    "name": "fullwidth-colon",
+    "entity": null,
+    "decimal": "&#65306;",
+    "hex": "&#xFF1A;",
+    "glyph": "：",
+    "decimalRaw": 65306,
+    "hexRaw": "FF1A",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "colon",
+      "chinese"
+    ]
+  },
+  {
+    "name": "fullwidth-semicolon",
+    "entity": null,
+    "decimal": "&#65307;",
+    "hex": "&#xFF1B;",
+    "glyph": "；",
+    "decimalRaw": 65307,
+    "hexRaw": "FF1B",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "semicolon",
+      "chinese"
+    ]
+  },
+  {
+    "name": "fullwidth-comma",
+    "entity": null,
+    "decimal": "&#65292;",
+    "hex": "&#xFF0C;",
+    "glyph": "，",
+    "decimalRaw": 65292,
+    "hexRaw": "FF0C",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "comma",
+      "chinese"
+    ]
+  },
+  {
+    "name": "fullwidth-full-stop",
+    "entity": null,
+    "decimal": "&#65294;",
+    "hex": "&#xFF0E;",
+    "glyph": "．",
+    "decimalRaw": 65294,
+    "hexRaw": "FF0E",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "full",
+      "stop",
+      "period",
+      "chinese"
+    ]
+  },
+  {
+    "name": "ideographic-middle-dot",
+    "entity": null,
+    "decimal": "&#65381;",
+    "hex": "&#xFF65;",
+    "glyph": "･",
+    "decimalRaw": 65381,
+    "hexRaw": "FF65",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "ideographic",
+      "middle",
+      "dot",
+      "japanese",
+      "nakaguro"
+    ]
+  },
+  {
+    "name": "fullwidth-tilde",
+    "entity": null,
+    "decimal": "&#65374;",
+    "hex": "&#xFF5E;",
+    "glyph": "～",
+    "decimalRaw": 65374,
+    "hexRaw": "FF5E",
+    "category": "CJK Punctuation",
+    "keywords": [
+      "fullwidth",
+      "tilde",
+      "chinese"
+    ]
+  }
+]
