@@ -2,7 +2,7 @@
   "name": "HTML Entities Reference",
   "short_name": "HTML Entities",
   "description": "Complete searchable reference of HTML entities with copy-to-clipboard and offline support.",
-  "start_url": "./html-entities-reference.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
@@ -23,7 +23,7 @@
       "name": "Search entities",
       "short_name": "Search",
       "description": "Open the reference and focus the search bar",
-      "url": "./html-entities-reference.html?action=search",
+      "url": "./index.html?action=search",
       "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
     }
   ]
